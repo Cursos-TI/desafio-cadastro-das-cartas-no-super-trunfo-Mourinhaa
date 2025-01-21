@@ -1,5 +1,8 @@
 #include <stdio.h>
 int main(){
+    
+    //Dados casdastrais do país ALpha
+
     char cidade1 [4] = "A01";  //variável para o nome da primeira cidade.
     double populacao1 = 742.452;  //variável para a população da primeira cidade.
     double area1 = 532.506;  //variável para o tamanho da primeira cidade.
