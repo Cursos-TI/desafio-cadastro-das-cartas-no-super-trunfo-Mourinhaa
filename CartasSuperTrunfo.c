@@ -2,6 +2,8 @@
 int main(){
     
     //Dados casdastrais do país ALpha.
+    
+    //Dados cadastrais do estado ALpha1. (A)
 
     char cidade1 [4] = "A01";  //variável para o nome da primeira cidade ALpha.
     double populacao1 = 742.452;  //variável para a população da primeira cidade ALpha.
@@ -12,44 +14,202 @@ int main(){
     char cidade2 [4] = "A02";  //variável para o nome da segunda cidade ALpha.
     double populacao2 = 323.543;  //variável para a população da segunda cidade ALpha.
     double area2 = 703.569;  //variável para o tamanho da segunda cidade ALpha.
-    float pib2 = 3.1;  //variável para o pib da segunda cidade cidade ALpha.
+    float pib2 = 3.1;  //variável para o pib da segunda cidade ALpha.
     char turismo2 = '3';  //variável para os pontos turisticos da segunda cidade ALpha.
 
     char cidade3 [4] = "A03";  //variável para o nome da terceira cidade ALpha.
     double populacao3 = 254.445;  //variável para a população da terceira cidade ALpha.
     double area3 = 913.445;  //variável para o tamanho da terceira cidade ALpha.
-    float pib3 = 9.5;  //variável para o pib da terceira cidade cidade ALpha.
+    float pib3 = 9.5;  //variável para o pib da terceira cidade ALpha.
     char turismo3 = '9';  //variável para os pontos turisticos da terceira cidade ALpha.
 
     char cidade4 [4] = "A04";  //variável para o nome da quarta cidade ALpha.
     double populacao4 = 743.603;  //variável para a população da quarta cidade ALpha.
     double area4 = 249.506;  //variável para o tamanho da quarta cidade ALpha.
-    float pib4 = 2.2;  //variável para o pib da quarta cidade cidade ALpha.
+    float pib4 = 2.2;  //variável para o pib da quarta cidade ALpha.
     char turismo4 = '0';  //variável para os pontos turisticos da quarta cidade ALpha.
     
-    char cidade5 [4] = "A05";  //variável para o nome da quinta cidade ALpha.
+    //Dados cadastrais do estado ALpha2. (B)
+
+    char cidade5 [4] = "B01";  //variável para o nome da quinta cidade ALpha.
     double populacao5 = 935.012;  //variável para a população da quinta cidade ALpha.
     double area5 = 612.231;  //variável para o tamanho da quinta cidade ALpha.
     float pib5 = 14.6;  //variável para o pib da quinta cidade ALpha.
     char turismo5 = '2';  //variável para os pontos turisticos da quinta cidade ALpha.
     
-    char cidade6 [4] = "A06";  //variável para o nome da sexta cidade ALpha.
+    char cidade6 [4] = "B02";  //variável para o nome da sexta cidade ALpha.
     double populacao6 = 241.234;  //variável para a população da sexta cidade ALpha.
     double area6 = 631.123;  //variável para o tomanho da sexta cidade ALpha.
     float pib6 = 6.5;  //variável para o pib da sexta cidade de ALpha.
     char turismo6 = '6';  //variável para os pontos turisticos da sexta cidade ALpha.
 
-    char cidade7 [4] = "A07";  //variável para o nome da setima cidade ALpha.
+    char cidade7 [4] = "B03";  //variável para o nome da setima cidade ALpha.
     double populacao7 = 254.673;  //variável para a população da setima cidade ALpha.
     double area7 = 589.143;  //variável para o tamanho da setima cidade ALpha.
-    float pib7 = 3.9;  //variável para o pib da setima cidade cidade ALpha.
+    float pib7 = 3.9;  //variável para o pib da setima cidade ALpha.
     char turismo7 = '8';  //variável para os pontos turisticos da setima cidade ALpha.
 
-    char cidade8 [4] = "A08";  //variável para o nome da oitava cidade ALpha.
+    char cidade8 [4] = "B04";  //variável para o nome da oitava cidade ALpha.
     double populacao8 = 305.573;  //variável para a população da oitava cidade ALpha.
     double area8 = 550.143;  //variável para o tamanho da oitava cidade ALpha.
-    float pib8 = 7.1;  //variável para o pib da oitava cidade cidade ALpha.
+    float pib8 = 7.1;  //variável para o pib da oitava cidade ALpha.
     char turismo8 = '6';  //variável para os pontos turisticos da oitava cidade ALpha.
+
+    //Dados cadastrais do estado ALpha3. (C)
+
+    char cidade9 [4] = "C01";  //variável para o nome da nona cidade ALpha.
+    double populacao9 = 255.135;  //variável para a população da nona cidade ALpha.
+    double area9 = 612.231;  //variável para o tamanho da nona cidade ALpha.
+    float pib9 = 14.6;  //variável para o pib da nona cidadade ALpha.
+    char turismo9 = '2';  //variável para os pontos turisticos da nona cidade ALpha.
+    
+    char cidade10 [4] = "C02";  //variável para o nome da decima cidade ALpha.
+    double populacao10 = 241.234;  //variável para a população da decima cidade ALpha.
+    double area10 = 631.123;  //variável para o tamanho da decima cidade ALpha.
+    float pib10 = 4.1;  //variável para o pib da decima cidade ALpha.
+    char turismo10 = '6';  //variável para os pontos turisticos da decima cidade ALpha.
+
+    char cidade11 [4] = "C03";  //variável para o nome da decima primeira cidade ALpha.
+    double populacao11 = 254.901;  //variável para a população da decima primeira cidade ALpha.
+    double area11 = 602.133;  //variável para o tamanho da decima primeira cidade ALpha.
+    float pib11 = 7;  //variável para o pib da decima primeira cidade ALpha.
+    char turismo11 = '8';  //variável para os pontos turisticos da decima primeira cidade ALpha.
+
+    char cidade12 [4] = "C04";  //variável para o nome da decima segunda cidade ALpha.
+    double populacao12 = 223.151;  //variável para a população da decima segunda cidade ALpha.
+    double area12 = 612.156;  //variável para o tamanho da decima segunda cidade ALpha.
+    float pib12 = 8;  //variável para o pib da decima segunda cidade ALpha.
+    char turismo12 = '7';  //variável para os pontos turisticos da decima segunda cidade ALpha.
+
+    //Dados cadastrais do estado ALpha4. (D)
+
+    char cidade13 [4] = "D01";  //variável para o nome da decima terceira cidade ALpha.
+    double populacao13 = 255.135;  //variável para a população da decima terceira cidade ALpha.
+    double area13 = 612.231;  //variável para o tamanho da decima terceira cidade ALpha.
+    float pib13 = 14.6;  //variável para o pib da decima terceira cidade ALpha.
+    char turismo13 = '2';  //variável para os pontos turisticos da decima terceira cidade ALpha.
+    
+    char cidade14 [4] = "D02";  //variável para o nome da decima quarta cidade ALpha.
+    double populacao14 = 241.234;  //variável para a população da decima quarta cidade ALpha.
+    double area14 = 631.123;  //variável para o tamanho da decima quarta cidade ALpha.
+    float pib14 = 4.1;  //variável para o pib da decima quarta cidade ALpha.
+    char turismo14 = '6';  //variável para os pontos turisticos da decima quarta cidade ALpha.
+
+    char cidade15 [4] = "D03";  //variável para o nome da decima quinta cidade ALpha.
+    double populacao15 = 501.138;  //variável para a população da decima quinta cidade ALpha.
+    double area15 = 608.243;  //variável para o tamanho da decima quinta cidade ALpha.
+    float pib15 = 9;  //variável para o pib da decima quinta cidade ALpha.
+    char turismo15 = '8';  //variável para os pontos turisticos da decima quinta cidade ALpha.
+
+    char cidade16 [4] = "D04";  //variável para o nome da decima sexta cidade ALpha.
+    double populacao16 = 270.248;  //variável para a população da decima sexta cidade ALpha.
+    double area16 = 612.156;  //variável para o tamanho da decima sexta cidade ALpha.
+    float pib16 = 6;  //variável para o pib da decima sexta cidade ALpha.
+    char turismo16 = '8';  //variável para os pontos turisticos da decima sexta cidade ALpha.
+
+    //Dados cadastrais do estado ALpha5. (E)
+
+    char cidade1 [4] = "E01";  //variável para o nome da decima setima cidade ALpha.
+    double populacao1 = 753.158;  //variável para a população da decima setima cidade ALpha.
+    double area1 = 813.121;  //variável para o tamanho da decima setima cidade ALpha.
+    float pib1 = 8;  //variável para o pib da decima setima cidade ALpha.
+    char turismo1 = '10';  //variável para os pontos turisticos da decima setima cidade ALpha.
+    
+    char cidade2 [4] = "E02";  //variável para o nome da decima oitava cidade ALpha.
+    double populacao2 = 90.121;  //variável para a população da decima oitava cidade ALpha.
+    double area2 = 153.505;  //variável para o tamanho da decima oitava cidade ALpha.
+    float pib2 = 6;  //variável para o pib da decima oitava cidade ALpha.
+    char turismo2 = '6';  //variável para os pontos turisticos da decima oitava cidade ALpha.
+
+    char cidade3 [4] = "E03";  //variável para o nome da decima nona cidade ALpha.
+    double populacao3 = 354.445;  //variável para a população da decima nona cidade ALpha.
+    double area3 = 913.456;  //variável para o tamanho da decima nona cidade ALpha.
+    float pib3 = 8;  //variável para o pib da decima nona cidade ALpha.
+    char turismo3 = '7';  //variável para os pontos turisticos da decima nona cidade ALpha.
+
+    char cidade4 [4] = "E04";  //variável para o nome da vigesima cidade ALpha.
+    double populacao4 = 843.603;  //variável para a população da vigesima cidade ALpha.
+    double area4 = 249.506;  //variável para o tamanho da vigesima cidade ALpha.
+    float pib4 = 1.2;  //variável para o pib da vigesima cidade ALpha.
+    char turismo4 = '0';  //variável para os pontos turisticos da vigesima cidade ALpha.
+    
+    //Dados cadastrais do estado ALpha6. (F)
+
+    char cidade5 [4] = "F01";  //variável para o nome da vigesima primeira cidade ALpha.
+    double populacao5 = 939.012;  //variável para a população da decima vigesima primeira ALpha.
+    double area5 = 682.231;  //variável para o tamanho da vigesima primeira cidade ALpha.
+    float pib5 = 17.6;  //variável para o pib da vigesima primeira cidade ALpha.
+    char turismo5 = '4';  //variável para os pontos turisticos da vigesima primeira cidade ALpha.
+    
+    char cidade6 [4] = "F02";  //variável para o nome da vigesima segunda cidade ALpha.
+    double populacao6 = 281.294;  //variável para a população da vigesima segunda cidade ALpha.
+    double area6 = 531.723;  //variável para o tomanho da vigesima segunda cidade ALpha.
+    float pib6 = 6;  //variável para o pib da vigesima segunda cidade de ALpha.
+    char turismo6 = '6';  //variável para os pontos turisticos da vigesima segunda cidade ALpha.
+
+    char cidade7 [4] = "F03";  //variável para o nome da vigesima terceira cidade ALpha.
+    double populacao7 = 254.933;  //variável para a população da vigesima terceira cidade ALpha.
+    double area7 = 699.143;  //variável para o tamanho da vigesima terceira cidade ALpha.
+    float pib7 = 5;  //variável para o pib da vigesima terceira cidade ALpha.
+    char turismo7 = '8';  //variável para os pontos turisticos da vigesima terceira cidade ALpha.
+
+    char cidade8 [4] = "F04";  //variável para o nome da vigesima quarta cidade ALpha.
+    double populacao8 = 310.563;  //variável para a população da vigesima quarta cidade ALpha.
+    double area8 = 630.179;  //variável para o tamanho da vigesima quarta cidade ALpha.
+    float pib8 = 6;  //variável para o pib da vigesima quarta cidade ALpha.
+    char turismo8 = '5';  //variável para os pontos turisticos da vigesima quarta cidade ALpha.
+
+    //Dados cadastrais do estado ALpha7. (G)
+
+    char cidade9 [4] = "G01";  //variável para o nome da vigesima quinta cidade ALpha.
+    double populacao9 = 296.745;  //variável para a população da vigesima quinta cidade ALpha.
+    double area9 = 689.221;  //variável para o tamanho da vigasima quinta cidade ALpha.
+    float pib9 = 16;  //variável para o pib da vigesima quinta cidadade ALpha.
+    char turismo9 = '3';  //variável para os pontos turisticos da vigesima quinta cidade ALpha.
+    
+    char cidade10 [4] = "G02";  //variável para o nome da vigesima sexta cidade ALpha.
+    double populacao10 = 241.234;  //variável para a população da vigesima sexta cidade ALpha.
+    double area10 = 631.123;  //variável para o tamanho da vigesima sexta cidade ALpha.
+    float pib10 = 4.1;  //variável para o pib da vigesima sexta cidade ALpha.
+    char turismo10 = '6';  //variável para os pontos turisticos da vigesima sexta cidade ALpha.
+
+    char cidade11 [4] = "G03";  //variável para o nome da vigesima setima cidade ALpha.
+    double populacao11 = 267.921;  //variável para a população da vigesima setima cidade ALpha.
+    double area11 = 582.143;  //variável para o tamanho da vigesima setima cidade ALpha.
+    float pib11 = 8;  //variável para o pib da vigesima setima cidade ALpha.
+    char turismo11 = '7';  //variável para os pontos turisticos da vigesima setima cidade ALpha.
+
+    char cidade12 [4] = "G04";  //variável para o nome da vigesima oitava da cidade de ALpha.
+    double populacao12 = 201.681;  //variável para a população da vigesima oitava cidade de ALpha.
+    double area12 = 612.156;  //variável para o tamanho da vigesima oitava cidade de ALpha.
+    float pib12 = 7;  //variável para o pib da vigesima oitava cidade de ALpha.
+    char turismo12 = '4';  //variável para os pontos turisticos da vigesima oitava cidade de ALpha.
+
+    //Dados cadastrais do estado ALpha8. (H)
+
+    char cidade13 [4] = "H01";  //variável para o nome da vigesima nona cidade ALpha.
+    double populacao13 = 255.135;  //variável para a população da vigesima nona cidade ALpha.
+    double area13 = 612.231;  //variável para o tamanho da vigesima nona cidade ALpha.
+    float pib13 = 14.6;  //variável para o pib da vigesima nona cidade ALpha.
+    char turismo13 = '2';  //variável para os pontos turisticos da vigesima nona cidade ALpha.
+    
+    char cidade14 [4] = "H02";  //variável para o nome da trigesima cidade ALpha.
+    double populacao14 = 241.234;  //variável para a população da trigesima cidade ALpha.
+    double area14 = 631.123;  //variável para o tamanho da trigesima cidade ALpha.
+    float pib14 = 4.1;  //variável para o pib da trigesima cidade ALpha.
+    char turismo14 = '6';  //variável para os pontos turisticos da trigesima cidade ALpha.
+
+    char cidade15 [4] = "H03";  //variável para o nome da trigesima primeira cidade ALpha.
+    double populacao15 = 560.788;  //variável para a população da dec trigesima primeira cidade ALpha.
+    double area15 = 668.643;  //variável para o tamanho da trigesima primeira cidade ALpha.
+    float pib15 = 8;  //variável para o pib da trigesima primeira cidade ALpha.
+    char turismo15 = '7';  //variável para os pontos turisticos da trigesima primeira cidade ALpha.
+
+    char cidade16 [4] = "H04";  //variável para o nome da trigesima segunda cidade ALpha.
+    double populacao16 = 283.098;  //variável para a população da trigesima segunda cidade ALpha.
+    double area16 = 604.676;  //variável para o tamanho da trigesima segunda cidade ALpha.
+    float pib16 = 5;  //variável para o pib da trigesima segunda cidade OMega.
+    char turismo16 = '7';  //variável para os pontos turisticos da trigesima segunda cidade ALpha.
 
     printf("Nome da primeira cidade de ALpha: \n");
     scanf("%s", &cidade1);
@@ -179,57 +339,7 @@ int main(){
     printf("PIB: %2.f \n", pib8);
     printf("Números de Pontos Turísticos: %c \n", turismo8);
     
-    //Dados cadastrais do país OMega.
-
-    char cidade9 [4] = "B01";  //variável para o nome da primeira cidade OMega.
-    double populacao9 = 255.135;  //variável para a população da primeira cidade OMega.
-    double area9 = 612.231;  //variável para o tamanho da primeira cidade OMega.
-    float pib9 = 14.6;  //variável para o pib da primeira cidade OMega.
-    char turismo9 = '2';  //variável para os pontos turisticos da primeira cidade OMega.
-    
-    char cidade10 [4] = "B02";  //variável para o nome da segunda cidade OMega.
-    double populacao10 = 241.234;  //variável para a população da segunda cidade OMega.
-    double area10 = 631.123;  //variável para o tamanho da segunda cidade OMega.
-    float pib10 = 4.1;  //variável para o pib da segunda cidade cidade OMega.
-    char turismo10 = '6';  //variável para os pontos turisticos da segunda cidade OMega.
-
-    char cidade11 [4] = "B03";  //variável para o nome da terceira cidade OMega.
-    double populacao11 = 254.901;  //variável para a população da terceira cidade OMega.
-    double area11 = 602.133;  //variável para o tamanho da terceira cidade OMega.
-    float pib11 = 7;  //variável para o pib da terceira cidade cidade OMega.
-    char turismo11 = '8';  //variável para os pontos turisticos da terceira cidade OMega.
-
-    char cidade12 [4] = "B04";  //variável para o nome da quarta cidade OMega.
-    double populacao12 = 223.151;  //variável para a população da quarta cidade OMega.
-    double area12 = 612.156;  //variável para o tamanho da quarta cidade OMega.
-    float pib12 = 8;  //variável para o pib da quarta cidade cidade OMega.
-    char turismo12 = '7';  //variável para os pontos turisticos da quarta cidade OMega.
-
-    char cidade13 [4] = "B05";  //variável para o nome da quinta cidade OMega.
-    double populacao13 = 255.135;  //variável para a população da quinta cidade OMega.
-    double area13 = 612.231;  //variável para o tamanho da quinta cidade OMega.
-    float pib13 = 14.6;  //variável para o pib da quinta cidade OMega.
-    char turismo13 = '2';  //variável para os pontos turisticos da quinta cidade OMega.
-    
-    char cidade14 [4] = "B06";  //variável para o nome da sexta cidade OMega.
-    double populacao14 = 241.234;  //variável para a população da sexta cidade OMega.
-    double area14 = 631.123;  //variável para o tamanho da sexta cidade OMega.
-    float pib14 = 4.1;  //variável para o pib da sexta cidade cidade OMega.
-    char turismo14 = '6';  //variável para os pontos turisticos da sexta cidade OMega.
-
-    char cidade15 [4] = "B07";  //variável para o nome da setima cidade OMega.
-    double populacao15 = 501.138;  //variável para a população da setima cidade OMega.
-    double area15 = 608.243;  //variável para o tamanho da setima cidade OMega.
-    float pib15 = 9;  //variável para o pib da setima cidade cidade OMega.
-    char turismo15 = '8';  //variável para os pontos turisticos da setima cidade OMega.
-
-    char cidade16 [4] = "B08";  //variável para o nome da oitava cidade OMega.
-    double populacao16 = 270.248;  //variável para a população da oitava cidade OMega.
-    double area16 = 612.156;  //variável para o tamanho da oitava cidade OMega.
-    float pib16 = 6;  //variável para o pib da oitava cidade OMega.
-    char turismo16 = '8';  //variável para os pontos turisticos da oitava cidade OMega.
-    
-    printf("Nome da primeira cidade OMega: \n");
+    printf("Nome da nona cidade de ALpha: \n");
     scanf("%s", &cidade9);
     printf("População: \n");
     scanf("%f", &populacao9);
@@ -245,7 +355,7 @@ int main(){
     printf("PIB: %2.f \n", pib9);
     printf("Números de Pontos Turísticos: %c \n", turismo9);
 
-    printf("Nome da segunda cidade de OMega: \n");
+    printf("Nome da da decima cidade de ALpha: \n");
     scanf("%s", &cidade10);
     printf("População: \n");
     scanf("%f", &populacao10);
@@ -261,7 +371,7 @@ int main(){
     printf("PIB: %2.f \n", pib10);
     printf("Números de Pontos Turísticos: %c \n", turismo10);
 
-    printf("Nome da terceira cidade de OMega: \n");
+    printf("Nome da decima primeira cidade de ALpha: \n");
     scanf("%s", &cidade11);
     printf("População: \n");
     scanf("%f", &populacao11);
@@ -277,7 +387,7 @@ int main(){
     printf("PIB: %2.f \n", pib11);
     printf("Números de Pontos Turísticos: %c \n", turismo11);
 
-    printf("Nome da quarta cidade de OMega: \n");
+    printf("Nome da decima segunda cidade de ALpha: \n");
     scanf("%s", &cidade12);
     printf("População: \n");
     scanf("%f", &populacao12);
@@ -293,7 +403,7 @@ int main(){
     printf("PIB: %2.f \n", pib12);
     printf("Números de Pontos Turísticos: %c \n", turismo12);
 
-    printf("Nome da quinta cidade de OMega: \n");
+    printf("Nome da decima terceira cidade de ALpha: \n");
     scanf("%s", &cidade13);
     printf("População: \n");
     scanf("%f", &populacao13);
@@ -309,7 +419,7 @@ int main(){
     printf("PIB: %2.f \n", pib13);
     printf("Números de Pontos Turísticos: %c \n", turismo13);
 
-    printf("Nome da sexta cidade de OMega: \n");
+    printf("Nome da decima quarta cidade de ALpha: \n");
     scanf("%s", &cidade14);
     printf("População: \n");
     scanf("%f", &populacao14);
@@ -325,7 +435,7 @@ int main(){
     printf("PIB: %2.f \n", pib14);
     printf("Números de Pontos Turísticos: %c \n", turismo14);
 
-    printf("Nome da setima cidade de OMega: \n");
+    printf("Nome da decima quinta cidade de ALpha: \n");
     scanf("%s", &cidade15);
     printf("População: \n");
     scanf("%f", &populacao15);
@@ -341,7 +451,7 @@ int main(){
     printf("PIB: %2.f \n", pib15);
     printf("Números de Pontos Turísticos: %c \n", turismo15);
 
-    printf("Nome da oitava cidade de OMega: \n");
+    printf("Nome da decima sexta cidade de ALpha: \n");
     scanf("%s", &cidade16);
     printf("População: \n");
     scanf("%f", &populacao16);
