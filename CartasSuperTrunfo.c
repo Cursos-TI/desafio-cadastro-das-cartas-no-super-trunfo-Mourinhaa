@@ -2,7 +2,9 @@
 int main(){
     
     /*Dividi os paises em ALpha e BEta e os estados númerados e catalogados por letras, com suas 
-    respectivas cidades de A1, A2, A3, A4, B1, B2 até o H4.*/
+    respectivas cidades de ALpha: A01, A02, A03, A04... até H04
+                           BEta: A001, A002, A003, A004... ATÉ H004*/
+    
     
     //Dados casdastrais do país ALpha.
     
@@ -211,7 +213,7 @@ int main(){
     char cidade32 [4] = "H04";  //variável para o nome da trigesima segunda cidade ALpha.
     double populacao32 = 283.098;  //variável para a população da trigesima segunda cidade ALpha.
     double area32 = 604.676;  //variável para o tamanho da trigesima segunda cidade ALpha.
-    float pib32 = 5;  //variável para o pib da trigesima segunda cidade OMega.
+    float pib32 = 5;  //variável para o pib da trigesima segunda cidade ALpha.
     char turismo32 = '7';  //variável para os pontos turisticos da trigesima segunda cidade ALpha.
 
     printf("Nome da primeira cidade de ALpha: \n");
@@ -788,11 +790,11 @@ int main(){
     float Pib9 = 10;  //variável para o pib da nona cidadade BEtA.
     char Turismo9 = '4';  //variável para os pontos turisticos da nona cidade BEta.
     
-    char Cidade10 [4] = "C002";  //variável para o nome da decima cidade ALpha.
-    double Populacao10 = 241.234;  //variável para a população da decima cidade ALpha.
-    double Area10 = 631.123;  //variável para o tamanho da decima cidade ALpha.
-    float Pib10 = 4.1;  //variável para o pib da decima cidade ALpha.
-    char Turismo10 = '6';  //variável para os pontos turisticos da decima cidade ALpha.
+    char Cidade10 [4] = "C002";  //variável para o nome da decima cidade BEta.
+    double Populacao10 = 241.234;  //variável para a população da decima cidade BEtA.
+    double Area10 = 631.123;  //variável para o tamanho da decima cidade BEta.
+    float Pib10 = 4.1;  //variável para o pib da decima cidade BEta.
+    char Turismo10 = '6';  //variável para os pontos turisticos da decima cidade BEta.
 
     char Cidade11 [4] = "C003";  //variável para o nome da decima primeira cidade BEtA.
     double Populacao11 = 310.983;  //variável para a população da decima primeira cidade BEta.
@@ -806,13 +808,13 @@ int main(){
     float Pib12 = 9;  //variável para o pib da decima segunda cidade BEta.
     char Turismo12 = '6';  //variável para os pontos turisticos da decima segunda cidade BEta.
 
-    //Dados cadastrais do estado BEta. (D)
+    //Dados cadastrais do estado BEta4. (D)
 
-    char cidade13 [4] = "D001";  //variável para o nome da decima terceira cidade BEta.
-    double populacao13 = 325.153;  //variável para a população da decima terceira cidade BEta.
-    double area13 = 722.221;  //variável para o tamanho da decima terceira cidade BEta.
-    float pib13 = 16;  //variável para o pib da decima terceira cidade BEta.
-    char turismo13 = '6';  //variável para os pontos turisticos da decima terceira cidade BEta.
+    char Cidade13 [4] = "D001";  //variável para o nome da decima terceira cidade BEta.
+    double Populacao13 = 325.153;  //variável para a população da decima terceira cidade BEta.
+    double Area13 = 722.221;  //variável para o tamanho da decima terceira cidade BEta.
+    float Pib13 = 16;  //variável para o pib da decima terceira cidade BEta.
+    char Turismo13 = '6';  //variável para os pontos turisticos da decima terceira cidade BEta.
     
     char Cidade14 [4] = "D002";  //variável para o nome da decima quarta cidade BEta.
     double Populacao14 = 212.233;  //variável para a população da decima quarta cidade BEta.
@@ -832,621 +834,622 @@ int main(){
     float Pib16 = 8;  //variável para o pib da decima sexta cidade BEta.
     char Turismo16 = '7';  //variável para os pontos turisticos da decima sexta cidade BEta.
 
-    //Dados cadastrais do estado ALpha5. (E)
+    //Dados cadastrais do estado BEta5. (E)
 
-    char cidade17 [4] = "E01";  //variável para o nome da decima setima cidade ALpha.
-    double populacao17 = 753.158;  //variável para a população da decima setima cidade ALpha.
-    double area17 = 813.121;  //variável para o tamanho da decima setima cidade ALpha.
-    float pib17 = 8;  //variável para o pib da decima setima cidade ALpha.
-    char turismo17 = '10';  //variável para os pontos turisticos da decima setima cidade ALpha.
+    char Cidade17 [4] = "E001";  //variável para o nome da decima setima cidade BEta.
+    double Populacao17 = 642.228;  //variável para a população da decima setima cidade BEta.
+    double Area17 = 734.021;  //variável para o tamanho da decima setima cidade BEta.
+    float Pib17 = 8;  //variável para o pib da decima setima cidade BEta.
+    char Turismo17 = '10';  //variável para os pontos turisticos da decima setima cidade BEta.
     
-    char cidade18 [4] = "E02";  //variável para o nome da decima oitava cidade ALpha.
-    double populacao18 = 90.121;  //variável para a população da decima oitava cidade ALpha.
-    double area18 = 153.505;  //variável para o tamanho da decima oitava cidade ALpha.
-    float pib18 = 6;  //variável para o pib da decima oitava cidade ALpha.
-    char turismo18 = '6';  //variável para os pontos turisticos da decima oitava cidade ALpha.
+    char Cidade18 [4] = "E002";  //variável para o nome da decima oitava cidade BEta.
+    double Populacao18 = 100.031;  //variável para a população da decima oitava cidade BEta.
+    double Area18 = 243.065;  //variável para o tamanho da decima oitava cidade BEta.
+    float Pib18 = 7;  //variável para o pib da decima oitava cidade BEta.
+    char Turismo18 = '4';  //variável para os pontos turisticos da decima oitava cidade BEta.
 
-    char cidade19 [4] = "E03";  //variável para o nome da decima nona cidade ALpha.
-    double populacao19 = 354.445;  //variável para a população da decima nona cidade ALpha.
-    double area19 = 913.456;  //variável para o tamanho da decima nona cidade ALpha.
-    float pib19 = 8;  //variável para o pib da decima nona cidade ALpha.
-    char turismo19 = '7';  //variável para os pontos turisticos da decima nona cidade ALpha.
+    char Cidade19 [4] = "E003";  //variável para o nome da decima nona cidade BEta.
+    double Populacao19 = 402.445;  //variável para a população da decima nona cidade BEta.
+    double Area19 = 811.236;  //variável para o tamanho da decima nona cidade BEta.
+    float Pib19 = 9;  //variável para o pib da decima nona cidade BEta.
+    char Turismo19 = '6';  //variável para os pontos turisticos da decima nona cidade BEta.
 
-    char cidade20 [4] = "E04";  //variável para o nome da vigesima cidade ALpha.
-    double populacao20 = 843.603;  //variável para a população da vigesima cidade ALpha.
-    double area20 = 249.506;  //variável para o tamanho da vigesima cidade ALpha.
-    float pib20 = 1.2;  //variável para o pib da vigesima cidade ALpha.
-    char turismo20 = '0';  //variável para os pontos turisticos da vigesima cidade ALpha.
+    char Cidade20 [4] = "E004";  //variável para o nome da vigesima cidade BEta.
+    double Populacao20 = 921.702;  //variável para a população da vigesima cidade BEta.
+    double Area20 = 232.500;  //variável para o tamanho da vigesima cidade BEta.
+    float Pib20 = 1;  //variável para o pib da vigesima cidade BEta.
+    char Turismo20 = '2';  //variável para os pontos turisticos da vigesima cidade BEta.
     
-    //Dados cadastrais do estado ALpha6. (F)
+    //Dados cadastrais do estado BEta6. (F)
 
-    char cidade21 [4] = "F01";  //variável para o nome da vigesima primeira cidade ALpha.
-    double populacao21 = 939.012;  //variável para a população da decima vigesima primeira ALpha.
-    double area21 = 682.231;  //variável para o tamanho da vigesima primeira cidade ALpha.
-    float pib21 = 17.6;  //variável para o pib da vigesima primeira cidade ALpha.
-    char turismo21 = '4';  //variável para os pontos turisticos da vigesima primeira cidade ALpha.
+    char Cidade21 [4] = "F001";  //variável para o nome da vigesima primeira cidade BEta.
+    double Populacao21 = 999.122;  //variável para a população da decima vigesima primeira BEta.
+    double Area21 = 682.231;  //variável para o tamanho da vigesima primeira cidade BEta.
+    float Pib21 = 19;  //variável para o pib da vigesima primeira cidade BEta.
+    char Turismo21 = '6';  //variável para os pontos turisticos da vigesima primeira cidade BEta.
     
-    char cidade22 [4] = "F02";  //variável para o nome da vigesima segunda cidade ALpha.
-    double populacao22 = 281.294;  //variável para a população da vigesima segunda cidade ALpha.
-    double area22 = 531.723;  //variável para o tomanho da vigesima segunda cidade ALpha.
-    float pib22 = 6;  //variável para o pib da vigesima segunda cidade de ALpha.
-    char turismo22 = '6';  //variável para os pontos turisticos da vigesima segunda cidade ALpha.
+    char Cidade22 [4] = "F002";  //variável para o nome da vigesima segunda cidade BEta.
+    double Populacao22 = 390.564;  //variável para a população da vigesima segunda cidade BEta.
+    double Area22 = 611.233;  //variável para o tomanho da vigesima segunda cidade BEta.
+    float Pib22 = 5;  //variável para o pib da vigesima segunda cidade de BEta.
+    char Turismo22 = '4';  //variável para os pontos turisticos da vigesima segunda cidade BEta.
 
-    char cidade23 [4] = "F03";  //variável para o nome da vigesima terceira cidade ALpha.
-    double populacao23 = 254.933;  //variável para a população da vigesima terceira cidade ALpha.
-    double area23 = 699.143;  //variável para o tamanho da vigesima terceira cidade ALpha.
-    float pib23 = 5;  //variável para o pib da vigesima terceira cidade ALpha.
-    char turismo23 = '8';  //variável para os pontos turisticos da vigesima terceira cidade ALpha.
+    char Cidade23 [4] = "F003";  //variável para o nome da vigesima terceira cidade BEta.
+    double Populacao23 = 132.803;  //variável para a população da vigesima terceira cidade BEta.
+    double Area23 = 730.203;  //variável para o tamanho da vigesima terceira cidade BEta.
+    float Pib23 = 6;  //variável para o pib da vigesima terceira cidade BEta.
+    char Turismo23 = '9';  //variável para os pontos turisticos da vigesima terceira cidade BEta.
 
-    char cidade24 [4] = "F04";  //variável para o nome da vigesima quarta cidade ALpha.
-    double populacao24 = 310.563;  //variável para a população da vigesima quarta cidade ALpha.
-    double area24 = 630.179;  //variável para o tamanho da vigesima quarta cidade ALpha.
-    float pib24 = 6;  //variável para o pib da vigesima quarta cidade ALpha.
-    char turismo24 = '5';  //variável para os pontos turisticos da vigesima quarta cidade ALpha.
+    char Cidade24 [4] = "F004";  //variável para o nome da vigesima quarta cidade BEta.
+    double Populacao24 = 568.092;  //variável para a população da vigesima quarta cidade BEta.
+    double Area24 = 700.145;  //variável para o tamanho da vigesima quarta cidade BEta.
+    float Pib24 = 10;  //variável para o pib da vigesima quarta cidade BEta.
+    char Turismo24 = '1';  //variável para os pontos turisticos da vigesima quarta cidade BEta.
 
-    //Dados cadastrais do estado ALpha7. (G)
+    //Dados cadastrais do estado BEta7. (G)
 
-    char cidade25 [4] = "G01";  //variável para o nome da vigesima quinta cidade ALpha.
-    double populacao25 = 296.745;  //variável para a população da vigesima quinta cidade ALpha.
-    double area25 = 689.221;  //variável para o tamanho da vigasima quinta cidade ALpha.
-    float pib25 = 16;  //variável para o pib da vigesima quinta cidadade ALpha.
-    char turismo25 = '3';  //variável para os pontos turisticos da vigesima quinta cidade ALpha.
+    char Cidade25 [4] = "G001";  //variável para o nome da vigesima quinta cidade BEta.
+    double Populacao25 = 306.753;  //variável para a população da vigesima quinta cidade BEta.
+    double Area25 = 611.222;  //variável para o tamanho da vigasima quinta cidade BEta.
+    float Pib25 = 22;  //variável para o pib da vigesima quinta cidadade BEta.
+    char Turismo25 = '8';  //variável para os pontos turisticos da vigesima quinta cidade BEta.
     
-    char cidade26 [4] = "G02";  //variável para o nome da vigesima sexta cidade ALpha.
-    double populacao26 = 241.234;  //variável para a população da vigesima sexta cidade ALpha.
-    double area26 = 631.123;  //variável para o tamanho da vigesima sexta cidade ALpha.
-    float pib26 = 4.1;  //variável para o pib da vigesima sexta cidade ALpha.
-    char turismo26 = '6';  //variável para os pontos turisticos da vigesima sexta cidade ALpha.
+    char Cidade26 [4] = "G002";  //variável para o nome da vigesima sexta cidade BEta.
+    double Populacao26 = 235.984;  //variável para a população da vigesima sexta cidade BEta.
+    double Area26 = 601.239;  //variável para o tamanho da vigesima sexta cidade BEta.
+    float Pib26 = 7;  //variável para o pib da vigesima sexta cidade BEta.
+    char Turismo26 = '8';  //variável para os pontos turisticos da vigesima sexta cidade BEta.
 
-    char cidade27 [4] = "G03";  //variável para o nome da vigesima setima cidade ALpha.
-    double populacao27 = 267.921;  //variável para a população da vigesima setima cidade ALpha.
-    double area27 = 582.143;  //variável para o tamanho da vigesima setima cidade ALpha.
-    float pib27 = 8;  //variável para o pib da vigesima setima cidade ALpha.
-    char turismo27 = '7';  //variável para os pontos turisticos da vigesima setima cidade ALpha.
+    char Cidade27 [4] = "G003";  //variável para o nome da vigesima setima cidade BEta.
+    double Populacao27 = 307.861;  //variável para a população da vigesima setima cidade BEta.
+    double Area27 = 401.121;  //variável para o tamanho da vigesima setima cidade BEta.
+    float Pib27 = 6;  //variável para o pib da vigesima setima cidade BEta.
+    char Turismo27 = '4';  //variável para os pontos turisticos da vigesima setima cidade BEta.
 
-    char cidade28 [4] = "G04";  //variável para o nome da vigesima oitava da cidade de ALpha.
-    double populacao28 = 201.681;  //variável para a população da vigesima oitava cidade de ALpha.
-    double area28 = 612.156;  //variável para o tamanho da vigesima oitava cidade de ALpha.
-    float pib28 = 7;  //variável para o pib da vigesima oitava cidade de ALpha.
-    char turismo28 = '4';  //variável para os pontos turisticos da vigesima oitava cidade de ALpha.
+    char Cidade28 [4] = "G004";  //variável para o nome da vigesima oitava da cidade de BEta.
+    double Populacao28 = 381.051;  //variável para a população da vigesima oitava cidade de BEta.
+    double Area28 = 712.146;  //variável para o tamanho da vigesima oitava cidade de BEta.
+    float Pib28 = 9;  //variável para o pib da vigesima oitava cidade de BEta.
+    char Turismo28 = '6';  //variável para os pontos turisticos da vigesima oitava cidade de BEta.
 
-    //Dados cadastrais do estado ALpha8. (H)
+    //Dados cadastrais do estado BEta8. (H)
 
-    char cidade29 [4] = "H01";  //variável para o nome da vigesima nona cidade ALpha.
-    double populacao29 = 255.135;  //variável para a população da vigesima nona cidade ALpha.
-    double area29 = 612.231;  //variável para o tamanho da vigesima nona cidade ALpha.
-    float pib29 = 14.6;  //variável para o pib da vigesima nona cidade ALpha.
-    char turismo29 = '2';  //variável para os pontos turisticos da vigesima nona cidade ALpha.
+    char Cidade29 [4] = "H001";  //variável para o nome da vigesima nona cidade BEta.
+    double Populacao29 = 375.215;  //variável para a população da vigesima nona cidade BEta.
+    double Area29 = 509.001;  //variável para o tamanho da vigesima nona cidade BEta.
+    float Pib29 = 17.6;  //variável para o pib da vigesima nona cidade BEta.
+    char Turismo29 = '1';  //variável para os pontos turisticos da vigesima nona cidade BEta.
     
-    char cidade30 [4] = "H02";  //variável para o nome da trigesima cidade ALpha.
-    double populacao30 = 241.234;  //variável para a população da trigesima cidade ALpha.
-    double area30 = 631.123;  //variável para o tamanho da trigesima cidade ALpha.
-    float pib30 = 4.1;  //variável para o pib da trigesima cidade ALpha.
-    char turismo30 = '6';  //variável para os pontos turisticos da trigesima cidade ALpha.
+    char Cidade30 [4] = "H002";  //variável para o nome da trigesima cidade BEta.
+    double Populacao30 = 311.209;  //variável para a população da trigesima cidade BEta.
+    double Area30 = 751.083;  //variável para o tamanho da trigesima cidade BEta.
+    float Pib30 = 3;  //variável para o pib da trigesima cidade BEta.
+    char Turismo30 = '5';  //variável para os pontos turisticos da trigesima cidade BEta.
 
-    char cidade31 [4] = "H03";  //variável para o nome da trigesima primeira cidade ALpha.
-    double populacao31 = 560.788;  //variável para a população da dec trigesima primeira cidade ALpha.
-    double area31 = 668.643;  //variável para o tamanho da trigesima primeira cidade ALpha.
-    float pib31 = 8;  //variável para o pib da trigesima primeira cidade ALpha.
-    char turismo31 = '7';  //variável para os pontos turisticos da trigesima primeira cidade ALpha.
+    char Cidade31 [4] = "H003";  //variável para o nome da trigesima primeira cidade BEta.
+    double Populacao31 = 490.778;  //variável para a população da dec trigesima primeira cidade BEta.
+    double Area31 = 508.243;  //variável para o tamanho da trigesima primeira cidade BEta.
+    float Pib31 = 12;  //variável para o pib da trigesima primeira cidade BEta.
+    char Turismo31 = '6';  //variável para os pontos turisticos da trigesima primeira cidade BEta.
 
-    char cidade32 [4] = "H04";  //variável para o nome da trigesima segunda cidade ALpha.
-    double populacao32 = 283.098;  //variável para a população da trigesima segunda cidade ALpha.
-    double area32 = 604.676;  //variável para o tamanho da trigesima segunda cidade ALpha.
-    float pib32 = 5;  //variável para o pib da trigesima segunda cidade OMega.
-    char turismo32 = '7';  //variável para os pontos turisticos da trigesima segunda cidade ALpha.
+    char Cidade32 [4] = "H004";  //variável para o nome da trigesima segunda cidade BEta.
+    double Populacao32 = 220.028;  //variável para a população da trigesima segunda cidade BEta.
+    double Area32 = 634.956;  //variável para o tamanho da trigesima segunda cidade BEta.
+    float Pib32 = 8;  //variável para o pib da trigesima segunda cidade BEta.
+    char Turismo32 = '6';  //variável para os pontos turisticos da trigesima segunda cidade BEta.
 
-    printf("Nome da primeira cidade de ALpha: \n");
-    scanf("%s", &cidade1);
+    printf("Nome da primeira cidade de BEta: \n");
+    scanf("%s", &Cidade1);
     printf("População: \n");
-    scanf("%f", &populacao1);
+    scanf("%f", &Populacao1);
     printf("Área: \n");
-    scanf("%f", &area1);
+    scanf("%f", &Area1);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib1);
+    scanf("%f", &Pib1);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo1);
-    printf("Cidade: %s \n", cidade1);
-    printf("População: %.3f \n", populacao1);
-    printf("Area: %.3f \n", area1);
-    printf("PIB: %2.f \n", pib1);
-    printf("Números de Pontos Turísticos: %c \n", turismo1);
+    scanf("%s", &Turismo1);
+    printf("Cidade: %s \n", Cidade1);
+    printf("População: %.3f \n", Populacao1);
+    printf("Area: %.3f \n", Area1);
+    printf("PIB: %2.f \n", Pib1);
+    printf("Números de Pontos Turísticos: %c \n", Turismo1);
 
-    printf("Nome da segunda cidade de ALpha: \n");
-    scanf("%s", &cidade2);
+    printf("Nome da segunda cidade de BEta: \n");
+    scanf("%s", &Cidade2);
     printf("População: \n");
-    scanf("%f", &populacao2);
+    scanf("%f", &Populacao2);
     printf("Área: \n");
-    scanf("%f", &area2);
+    scanf("%f", &Area2);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib2);
+    scanf("%f", &Pib2);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo2);
-    printf("Cidade: %s \n", cidade2);
-    printf("População: %.3f \n", populacao2);
-    printf("Area: %.3f \n", area2);
-    printf("PIB: %1.f \n", pib2);
-    printf("Números de Pontos Turísticos: %c \n", turismo2);
+    scanf("%s", &Turismo2);
+    printf("Cidade: %s \n", Cidade2);
+    printf("População: %.3f \n", Populacao2);
+    printf("Area: %.3f \n", Area2);
+    printf("PIB: %1.f \n", Pib2);
+    printf("Números de Pontos Turísticos: %c \n", Turismo2);
 
-    printf("Nome da terceira cidade de ALpha: \n");
-    scanf("%s", &cidade3);
+    printf("Nome da terceira cidade de BEta: \n");
+    scanf("%s", &Cidade3);
     printf("População: \n");
-    scanf("%f", &populacao3);
+    scanf("%f", &Populacao3);
     printf("Área: \n");
-    scanf("%f", &area3);
+    scanf("%f", &Area3);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib3);
+    scanf("%f", &Pib3);
     printf("Pontos Turisticos: \n");
     scanf("%s", &turismo3);
-    printf("Cidade: %s \n", cidade3);
-    printf("População: %.3f \n", populacao3);
-    printf("Area: %.3f \n", area3);
-    printf("PIB: %1.f \n", pib3);
-    printf("Números de Pontos Turísticos: %c \n", turismo3);
+    printf("Cidade: %s \n", Cidade3);
+    printf("População: %.3f \n", Populacao3);
+    printf("Area: %.3f \n", Area3);
+    printf("PIB: %1.f \n", Pib3);
+    printf("Números de Pontos Turísticos: %c \n", Turismo3);
 
-    printf("Nome da quarta cidade de ALpha: \n");
-    scanf("%s", &cidade4);
+    printf("Nome da quarta cidade de BEta: \n");
+    scanf("%s", &Cidade4);
     printf("População: \n");
-    scanf("%f", &populacao4);
+    scanf("%f", &Populacao4);
     printf("Área: \n");
-    scanf("%f", &area4);
+    scanf("%f", &Area4);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib4);
+    scanf("%f", &Pib4);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo4);
-    printf("Cidade: %s \n", cidade4);
-    printf("População: %.3f \n", populacao4);
-    printf("Area: %.3f \n", area4);
-    printf("PIB: %2.f \n", pib4);
-    printf("Números de Pontos Turísticos: %c \n", turismo4);
+    scanf("%s", &Turismo4);
+    printf("Cidade: %s \n", Cidade4);
+    printf("População: %.3f \n", Populacao4);
+    printf("Area: %.3f \n", Area4);
+    printf("PIB: %2.f \n", Pib4);
+    printf("Números de Pontos Turísticos: %c \n", Turismo4);
 
-    printf("Nome da quinta cidade de ALpha: \n");
-    scanf("%s", &cidade5);
+    printf("Nome da quinta cidade de BEta: \n");
+    scanf("%s", &Cidade5);
     printf("População: \n");
-    scanf("%f", &populacao5);
+    scanf("%f", &Populacao5);
     printf("Área: \n");
-    scanf("%f", &area5);
+    scanf("%f", &Area5);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib5);
+    scanf("%f", &Pib5);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo5);
-    printf("Cidade: %s \n", cidade5);
-    printf("População: %.3f \n", populacao5);
-    printf("Area: %.3f \n", area5);
-    printf("PIB: %2.f \n", pib5);
-    printf("Números de Pontos Turísticos: %c \n", turismo5);
+    scanf("%s", &Turismo5);
+    printf("Cidade: %s \n", Cidade5);
+    printf("População: %.3f \n", Populacao5);
+    printf("Area: %.3f \n", Area5);
+    printf("PIB: %2.f \n", Pib5);
+    printf("Números de Pontos Turísticos: %c \n", Turismo5);
 
-    printf("Nome da sexta cidade de ALpha: \n");
-    scanf("%s", &cidade6);
+    printf("Nome da sexta cidade de BEta: \n");
+    scanf("%s", &Cidade6);
     printf("População: \n");
-    scanf("%f", &populacao6);
+    scanf("%f", &Populacao6);
     printf("Área: \n");
-    scanf("%f", &area6);
+    scanf("%f", &Area6);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib6);
+    scanf("%f", &Pib6);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo6);
-    printf("Cidade: %s \n", cidade6);
-    printf("População: %.3f \n", populacao6);
-    printf("Area: %.3f \n", area6);
-    printf("PIB: %2.f \n", pib6);
-    printf("Números de Pontos Turísticos: %c \n", turismo6);
+    scanf("%s", &Turismo6);
+    printf("Cidade: %s \n", Cidade6);
+    printf("População: %.3f \n", Populacao6);
+    printf("Area: %.3f \n", Area6);
+    printf("PIB: %2.f \n", Pib6);
+    printf("Números de Pontos Turísticos: %c \n", Turismo6);
 
-    printf("Nome da setima cidade de ALpha: \n");
-    scanf("%s", &cidade7);
+    printf("Nome da setima cidade de BEta: \n");
+    scanf("%s", &Cidade7);
     printf("População: \n");
-    scanf("%f", &populacao7);
+    scanf("%f", &Populacao7);
     printf("Área: \n");
-    scanf("%f", &area7);
+    scanf("%f", &Area7);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib7);
+    scanf("%f", &Pib7);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo7);
-    printf("Cidade: %s \n", cidade7);
-    printf("População: %.3f \n", populacao7);
-    printf("Area: %.3f \n", area7);
-    printf("PIB: %2.f \n", pib7);
-    printf("Números de Pontos Turísticos: %c \n", turismo7);
+    scanf("%s", &Turismo7);
+    printf("Cidade: %s \n", Cidade7);
+    printf("População: %.3f \n", Populacao7);
+    printf("Area: %.3f \n", Area7);
+    printf("PIB: %2.f \n", Pib7);
+    printf("Números de Pontos Turísticos: %c \n", Turismo7);
 
-    printf("Nome da oitava cidade de ALpha: \n");
-    scanf("%s", &cidade8);
+    printf("Nome da oitava cidade de BEta: \n");
+    scanf("%s", &Cidade8);
     printf("População: \n");
-    scanf("%f", &populacao8);
+    scanf("%f", &Populacao8);
     printf("Área: \n");
-    scanf("%f", &area8);
+    scanf("%f", &Area8);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib8);
+    scanf("%f", &Pib8);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo8);
-    printf("Cidade: %s \n", cidade8);
-    printf("População: %.3f \n", populacao8);
-    printf("Area: %.3f \n", area8);
-    printf("PIB: %2.f \n", pib8);
-    printf("Números de Pontos Turísticos: %c \n", turismo8);
+    scanf("%s", &Turismo8);
+    printf("Cidade: %s \n", Cidade8);
+    printf("População: %.3f \n", Populacao8);
+    printf("Area: %.3f \n", Area8);
+    printf("PIB: %2.f \n", Pib8);
+    printf("Números de Pontos Turísticos: %c \n", Turismo8);
     
-    printf("Nome da nona cidade de ALpha: \n");
-    scanf("%s", &cidade9);
+    printf("Nome da nona cidade de BEta: \n");
+    scanf("%s", &Cidade9);
     printf("População: \n");
-    scanf("%f", &populacao9);
+    scanf("%f", &Populacao9);
     printf("Área: \n");
-    scanf("%f", &area9);
+    scanf("%f", &Area9);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib9);
+    scanf("%f", &Pib9);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo9);
-    printf("Cidade: %s \n", cidade9);
-    printf("População: %.3f \n", populacao9);
-    printf("Area: %.3f \n", area9);
-    printf("PIB: %2.f \n", pib9);
-    printf("Números de Pontos Turísticos: %c \n", turismo9);
+    scanf("%s", &Turismo9);
+    printf("Cidade: %s \n", Cidade9);
+    printf("População: %.3f \n", Populacao9);
+    printf("Area: %.3f \n", Area9);
+    printf("PIB: %2.f \n", Pib9);
+    printf("Números de Pontos Turísticos: %c \n", Turismo9);
 
-    printf("Nome da decima cidade de ALpha: \n");
-    scanf("%s", &cidade10);
+    printf("Nome da decima cidade de BEta: \n");
+    scanf("%s", &Cidade10);
     printf("População: \n");
-    scanf("%f", &populacao10);
+    scanf("%f", &Populacao10);
     printf("Área: \n");
-    scanf("%f", &area10);
+    scanf("%f", &Area10);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib10);
+    scanf("%f", &Pib10);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo10);
-    printf("Cidade: %s \n", cidade10);
-    printf("População: %.3f \n", populacao10);
-    printf("Area: %.3f \n", area10);
-    printf("PIB: %2.f \n", pib10);
-    printf("Números de Pontos Turísticos: %c \n", turismo10);
+    scanf("%s", &Turismo10);
+    printf("Cidade: %s \n", Cidade10);
+    printf("População: %.3f \n", Populacao10);
+    printf("Area: %.3f \n", Area10);
+    printf("PIB: %2.f \n", Pib10);
+    printf("Números de Pontos Turísticos: %c \n", Turismo10);
 
-    printf("Nome da decima primeira cidade de ALpha: \n");
-    scanf("%s", &cidade11);
+    printf("Nome da decima primeira cidade de BEta: \n");
+    scanf("%s", &Cidade11);
     printf("População: \n");
-    scanf("%f", &populacao11);
+    scanf("%f", &Populacao11);
     printf("Área: \n");
-    scanf("%f", &area11);
+    scanf("%f", &Area11);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib11);
+    scanf("%f", &Pib11);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo11);
-    printf("Cidade: %s \n", cidade11);
-    printf("População: %.3f \n", populacao11);
-    printf("Area: %.3f \n", area11);
-    printf("PIB: %2.f \n", pib11);
-    printf("Números de Pontos Turísticos: %c \n", turismo11);
+    scanf("%s", &Turismo11);
+    printf("Cidade: %s \n", Cidade11);
+    printf("População: %.3f \n", Populacao11);
+    printf("Area: %.3f \n", Area11);
+    printf("PIB: %2.f \n", Pib11);
+    printf("Números de Pontos Turísticos: %c \n", Turismo11);
 
-    printf("Nome da decima segunda cidade de ALpha: \n");
-    scanf("%s", &cidade12);
+    printf("Nome da decima segunda cidade de BEta: \n");
+    scanf("%s", &Cidade12);
     printf("População: \n");
-    scanf("%f", &populacao12);
+    scanf("%f", &Populacao12);
     printf("Área: \n");
-    scanf("%f", &area12);
+    scanf("%f", &Area12);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib12);
+    scanf("%f", &Pib12);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo12);
-    printf("Cidade: %s \n", cidade12);
-    printf("População: %.3f \n", populacao12);
-    printf("Area: %.3f \n", area12);
-    printf("PIB: %2.f \n", pib12);
-    printf("Números de Pontos Turísticos: %c \n", turismo12);
+    scanf("%s", &Turismo12);
+    printf("Cidade: %s \n", Cidade12);
+    printf("População: %.3f \n", Populacao12);
+    printf("Area: %.3f \n", Area12);
+    printf("PIB: %2.f \n", Pib12);
+    printf("Números de Pontos Turísticos: %c \n", Turismo12);
 
-    printf("Nome da decima terceira cidade de ALpha: \n");
-    scanf("%s", &cidade13);
+    printf("Nome da decima terceira cidade de BEta: \n");
+    scanf("%s", &Cidade13);
     printf("População: \n");
-    scanf("%f", &populacao13);
+    scanf("%f", &Populacao13);
     printf("Área: \n");
-    scanf("%f", &area13);
+    scanf("%f", &Area13);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib13);
+    scanf("%f", &Pib13);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo13);
-    printf("Cidade: %s \n", cidade13);
-    printf("População: %.3f \n", populacao13);
-    printf("Area: %.3f \n", area13);
-    printf("PIB: %2.f \n", pib13);
-    printf("Números de Pontos Turísticos: %c \n", turismo13);
+    scanf("%s", &Turismo13);
+    printf("Cidade: %s \n", Cidade13);
+    printf("População: %.3f \n", Populacao13);
+    printf("Area: %.3f \n", Area13);
+    printf("PIB: %2.f \n", Pib13);
+    printf("Números de Pontos Turísticos: %c \n", Turismo13);
 
-    printf("Nome da decima quarta cidade de ALpha: \n");
-    scanf("%s", &cidade14);
+    printf("Nome da decima quarta cidade de BEta: \n");
+    scanf("%s", &Cidade14);
     printf("População: \n");
-    scanf("%f", &populacao14);
+    scanf("%f", &Populacao14);
     printf("Área: \n");
-    scanf("%f", &area14);
+    scanf("%f", &Area14);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib14);
+    scanf("%f", &Pib14);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo14);
-    printf("Cidade: %s \n", cidade14);
-    printf("População: %.3f \n", populacao14);
-    printf("Area: %.3f \n", area14);
-    printf("PIB: %2.f \n", pib14);
-    printf("Números de Pontos Turísticos: %c \n", turismo14);
+    scanf("%s", &Turismo14);
+    printf("Cidade: %s \n", Cidade14);
+    printf("População: %.3f \n", Populacao14);
+    printf("Area: %.3f \n", Area14);
+    printf("PIB: %2.f \n", Pib14);
+    printf("Números de Pontos Turísticos: %c \n", Turismo14);
 
-    printf("Nome da decima quinta cidade de ALpha: \n");
-    scanf("%s", &cidade15);
+    printf("Nome da decima quinta cidade de BEta: \n");
+    scanf("%s", &Cidade15);
     printf("População: \n");
-    scanf("%f", &populacao15);
+    scanf("%f", &Populacao15);
     printf("Área: \n");
-    scanf("%f", &area15);
+    scanf("%f", &Area15);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib15);
+    scanf("%f", &Pib15);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo15);
-    printf("Cidade: %s \n", cidade15);
-    printf("População: %.3f \n", populacao15);
-    printf("Area: %.3f \n", area15);
-    printf("PIB: %2.f \n", pib15);
-    printf("Números de Pontos Turísticos: %c \n", turismo15);
+    scanf("%s", &Turismo15);
+    printf("Cidade: %s \n", Cidade15);
+    printf("População: %.3f \n", Populacao15);
+    printf("Area: %.3f \n", Area15);
+    printf("PIB: %2.f \n", Pib15);
+    printf("Números de Pontos Turísticos: %c \n", Turismo15);
 
-    printf("Nome da decima sexta cidade de ALpha: \n");
-    scanf("%s", &cidade16);
+    printf("Nome da decima sexta cidade de BEta: \n");
+    scanf("%s", &Cidade16);
     printf("População: \n");
-    scanf("%f", &populacao16);
+    scanf("%f", &Populacao16);
     printf("Área: \n");
-    scanf("%f", &area16);
+    scanf("%f", &Area16);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib16);
+    scanf("%f", &Pib16);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo16);
-    printf("Cidade: %s \n", cidade16);
-    printf("População: %.3f \n", populacao16);
-    printf("Area: %.3f \n", area16);
-    printf("PIB: %2.f \n", pib16);
-    printf("Números de Pontos Turísticos: %c \n", turismo16);
+    scanf("%s", &Turismo16);
+    printf("Cidade: %s \n", Cidade16);
+    printf("População: %.3f \n", Populacao16);
+    printf("Area: %.3f \n", Area16);
+    printf("PIB: %2.f \n", Pib16);
+    printf("Números de Pontos Turísticos: %c \n", Turismo16);
 
-    printf("Nome da decima setima cidade de ALpha: \n");
-    scanf("%s", &cidade17);
+    printf("Nome da decima setima cidade de BEta: \n");
+    scanf("%s", &Cidade17);
     printf("População: \n");
-    scanf("%f", &populacao17);
+    scanf("%f", &Populacao17);
     printf("Área: \n");
-    scanf("%f", &area17);
+    scanf("%f", &Area17);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib17);
+    scanf("%f", &Pib17);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo17);
-    printf("Cidade: %s \n", cidade17);
-    printf("População: %.3f \n", populacao17);
-    printf("Area: %.3f \n", area17);
-    printf("PIB: %2.f \n", pib17);
-    printf("Números de Pontos Turísticos: %c \n", turismo17);
+    scanf("%s", &Turismo17);
+    printf("Cidade: %s \n", Cidade17);
+    printf("População: %.3f \n", Populacao17);
+    printf("Area: %.3f \n", Area17);
+    printf("PIB: %2.f \n", Pib17);
+    printf("Números de Pontos Turísticos: %c \n", Turismo17);
 
-    printf("Nome da decima oitava cidade de ALpha: \n");
-    scanf("%s", &cidade18);
+    printf("Nome da decima oitava cidade de BEta: \n");
+    scanf("%s", &Cidade18);
     printf("População: \n");
-    scanf("%f", &populacao18);
+    scanf("%f", &Populacao18);
     printf("Área: \n");
-    scanf("%f", &area18);
+    scanf("%f", &Area18);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib18);
+    scanf("%f", &Pib18);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo18);
-    printf("Cidade: %s \n", cidade18);
-    printf("População: %.3f \n", populacao18);
-    printf("Area: %.3f \n", area18);
-    printf("PIB: %1.f \n", pib18);
-    printf("Números de Pontos Turísticos: %c \n", turismo18);
+    scanf("%s", &Turismo18);
+    printf("Cidade: %s \n", Cidade18);
+    printf("População: %.3f \n", Populacao18);
+    printf("Area: %.3f \n", Area18);
+    printf("PIB: %1.f \n", Pib18);
+    printf("Números de Pontos Turísticos: %c \n", Turismo18);
 
-    printf("Nome da decima nona cidade de ALpha: \n");
-    scanf("%s", &cidade19);
+    printf("Nome da decima nona cidade de BEta: \n");
+    scanf("%s", &Cidade19);
     printf("População: \n");
-    scanf("%f", &populacao19);
+    scanf("%f", &Populacao19);
     printf("Área: \n");
-    scanf("%f", &area19);
+    scanf("%f", &Area19);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib19);
+    scanf("%f", &Pib19);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo19);
-    printf("Cidade: %s \n", cidade3);
-    printf("População: %.3f \n", populacao19);
-    printf("Area: %.3f \n", area19);
-    printf("PIB: %1.f \n", pib19);
-    printf("Números de Pontos Turísticos: %c \n", turismo19);
+    scanf("%s", &Turismo19);
+    printf("Cidade: %s \n", Cidade3);
+    printf("População: %.3f \n", Populacao19);
+    printf("Area: %.3f \n", Area19);
+    printf("PIB: %1.f \n", Pib19);
+    printf("Números de Pontos Turísticos: %c \n", Turismo19);
 
     printf("Nome da vigesima cidade de ALpha: \n");
-    scanf("%s", &cidade20);
+    scanf("%s", &Cidade20);
     printf("População: \n");
-    scanf("%f", &populacao20);
+    scanf("%f", &Populacao20);
     printf("Área: \n");
-    scanf("%f", &area20);
+    scanf("%f", &Area20);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib20);
+    scanf("%f", &Pib20);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo20);
-    printf("Cidade: %s \n", cidade20);
-    printf("População: %.3f \n", populacao20);
-    printf("Area: %.3f \n", area20);
-    printf("PIB: %2.f \n", pib20);
-    printf("Números de Pontos Turísticos: %c \n", turismo20);
+    scanf("%s", &Turismo20);
+    printf("Cidade: %s \n", Cidade20);
+    printf("População: %.3f \n", Populacao20);
+    printf("Area: %.3f \n", Area20);
+    printf("PIB: %2.f \n", Pib20);
+    printf("Números de Pontos Turísticos: %c \n", Turismo20);
 
-    printf("Nome da vigesima primeira cidade de ALpha: \n");
-    scanf("%s", &cidade21);
+    printf("Nome da vigesima primeira cidade de BEta: \n");
+    scanf("%s", &Cidade21);
     printf("População: \n");
-    scanf("%f", &populacao21);
+    scanf("%f", &Populacao21);
     printf("Área: \n");
-    scanf("%f", &area21);
+    scanf("%f", &Area21);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib21);
+    scanf("%f", &Pib21);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo21);
-    printf("Cidade: %s \n", cidade21);
-    printf("População: %.3f \n", populacao21);
-    printf("Area: %.3f \n", area21);
-    printf("PIB: %2.f \n", pib21);
-    printf("Números de Pontos Turísticos: %c \n", turismo21);
+    scanf("%s", &Turismo21);
+    printf("Cidade: %s \n", Cidade21);
+    printf("População: %.3f \n", Populacao21);
+    printf("Area: %.3f \n", Area21);
+    printf("PIB: %2.f \n", Pib21);
+    printf("Números de Pontos Turísticos: %c \n", Turismo21);
 
-    printf("Nome da vigesima segunda cidade de ALpha: \n");
-    scanf("%s", &cidade22);
+    printf("Nome da vigesima segunda cidade de BEta: \n");
+    scanf("%s", &Cidade22);
     printf("População: \n");
-    scanf("%f", &populacao22);
+    scanf("%f", &Populacao22);
     printf("Área: \n");
-    scanf("%f", &area22);
+    scanf("%f", &Area22);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib22);
+    scanf("%f", &Pib22);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo22);
-    printf("Cidade: %s \n", cidade22);
-    printf("População: %.3f \n", populacao22);
-    printf("Area: %.3f \n", area22);
-    printf("PIB: %2.f \n", pib22);
-    printf("Números de Pontos Turísticos: %c \n", turismo22);
+    scanf("%s", &Turismo22);
+    printf("Cidade: %s \n", Cidade22);
+    printf("População: %.3f \n", Populacao22);
+    printf("Area: %.3f \n", Area22);
+    printf("PIB: %2.f \n", Pib22);
+    printf("Números de Pontos Turísticos: %c \n", Turismo22);
 
-    printf("Nome da vigesima terceira cidade de ALpha: \n");
-    scanf("%s", &cidade23);
+    printf("Nome da vigesima terceira cidade de BEta: \n");
+    scanf("%s", &Cidade23);
     printf("População: \n");
-    scanf("%f", &populacao23);
+    scanf("%f", Populacao23);
     printf("Área: \n");
-    scanf("%f", &area23);
+    scanf("%f", &Area23);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib23);
+    scanf("%f", &Pib23);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo23);
-    printf("Cidade: %s \n", cidade23);
-    printf("População: %.3f \n", populacao23);
-    printf("Area: %.3f \n", area23);
-    printf("PIB: %2.f \n", pib23);
-    printf("Números de Pontos Turísticos: %c \n", turismo23);
+    scanf("%s", &Turismo23);
+    printf("Cidade: %s \n", Cidade23);
+    printf("População: %.3f \n", Populacao23);
+    printf("Area: %.3f \n", Area23);
+    printf("PIB: %2.f \n", Pib23);
+    printf("Números de Pontos Turísticos: %c \n", Turismo23);
 
-    printf("Nome da vigesima quarta cidade de ALpha: \n");
-    scanf("%s", &cidade24);
+    printf("Nome da vigesima quarta cidade de BEta: \n");
+    scanf("%s", &Cidade24);
     printf("População: \n");
-    scanf("%f", &populacao24);
+    scanf("%f", &Populacao24);
     printf("Área: \n");
-    scanf("%f", &area24);
+    scanf("%f", &Area24);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib24);
+    scanf("%f", &Pib24);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo24);
-    printf("Cidade: %s \n", cidade24);
-    printf("População: %.3f \n", populacao24);
-    printf("Area: %.3f \n", area24);
-    printf("PIB: %2.f \n", pib24);
-    printf("Números de Pontos Turísticos: %c \n", turismo24);
+    scanf("%s", &Turismo24);
+    printf("Cidade: %s \n", Cidade24);
+    printf("População: %.3f \n", Populacao24);
+    printf("Area: %.3f \n", Area24);
+    printf("PIB: %2.f \n", Pib24);
+    printf("Números de Pontos Turísticos: %c \n", Turismo24);
     
-    printf("Nome da vigesima quinta cidade de ALpha: \n");
-    scanf("%s", &cidade25);
+    printf("Nome da vigesima quinta cidade de BEta: \n");
+    scanf("%s", &Cidade25);
     printf("População: \n");
-    scanf("%f", &populacao25);
+    scanf("%f", &Populacao25);
     printf("Área: \n");
-    scanf("%f", &area25);
+    scanf("%f", &Area25);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib25);
+    scanf("%f", &Pib25);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo25);
-    printf("Cidade: %s \n", cidade25);
-    printf("População: %.3f \n", populacao25);
-    printf("Area: %.3f \n", area25);
-    printf("PIB: %2.f \n", pib25);
-    printf("Números de Pontos Turísticos: %c \n", turismo25);
+    scanf("%s", &Turismo25);
+    printf("Cidade: %s \n", Cidade25);
+    printf("População: %.3f \n", Populacao25);
+    printf("Area: %.3f \n", Area25);
+    printf("PIB: %2.f \n", Pib25);
+    printf("Números de Pontos Turísticos: %c \n", Turismo25);
 
-    printf("Nome da vigesima sexta cidade de ALpha: \n");
-    scanf("%s", &cidade26);
+    printf("Nome da vigesima sexta cidade de BEta: \n");
+    scanf("%s", &Cidade26);
     printf("População: \n");
-    scanf("%f", &populacao26);
+    scanf("%f", &Populacao26);
     printf("Área: \n");
-    scanf("%f", &area26);
+    scanf("%f", &Area26);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib26);
+    scanf("%f", &Pib26);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo26);
-    printf("Cidade: %s \n", cidade26);
-    printf("População: %.3f \n", populacao26);
-    printf("Area: %.3f \n", area26);
-    printf("PIB: %2.f \n", pib26);
-    printf("Números de Pontos Turísticos: %c \n", turismo26);
+    scanf("%s", &Turismo26);
+    printf("Cidade: %s \n", Cidade26);
+    printf("População: %.3f \n", Populacao26);
+    printf("Area: %.3f \n", Area26);
+    printf("PIB: %2.f \n", Pib26);
+    printf("Números de Pontos Turísticos: %c \n", Turismo26);
 
-    printf("Nome da vigesima setima cidade de ALpha: \n");
-    scanf("%s", &cidade27);
+    printf("Nome da vigesima setima cidade de BEta: \n");
+    scanf("%s", &Cidade27);
     printf("População: \n");
-    scanf("%f", &populacao27);
+    scanf("%f", &Populacao27);
     printf("Área: \n");
-    scanf("%f", &area27);
+    scanf("%f", &Area27);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib27);
+    scanf("%f", &Pib27);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo27);
-    printf("Cidade: %s \n", cidade27);
-    printf("População: %.3f \n", populacao27);
-    printf("Area: %.3f \n", area27);
-    printf("PIB: %2.f \n", pib27);
-    printf("Números de Pontos Turísticos: %c \n", turismo27);
+    scanf("%s", &Turismo27);
+    printf("Cidade: %s \n", Cidade27);
+    printf("População: %.3f \n", Populacao27);
+    printf("Area: %.3f \n", Area27);
+    printf("PIB: %2.f \n", Pib27);
+    printf("Números de Pontos Turísticos: %c \n", Turismo27);
 
     printf("Nome da vigesima oitava cidade de ALpha: \n");
-    scanf("%s", &cidade28);
+    scanf("%s", &Cidade28);
     printf("População: \n");
-    scanf("%f", &populacao28);
+    scanf("%f", &Populacao28);
     printf("Área: \n");
-    scanf("%f", &area28);
+    scanf("%f", &Area28);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib28);
+    scanf("%f", &Pib28);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo28);
-    printf("Cidade: %s \n", cidade28);
-    printf("População: %.3f \n", populacao28);
-    printf("Area: %.3f \n", area28);
-    printf("PIB: %2.f \n", pib28);
-    printf("Números de Pontos Turísticos: %c \n", turismo28);
+    scanf("%s", &Turismo28);
+    printf("Cidade: %s \n", Cidade28);
+    printf("População: %.3f \n", Populacao28);
+    printf("Area: %.3f \n", Area28);
+    printf("PIB: %2.f \n", Pib28);
+    printf("Números de Pontos Turísticos: %c \n", Turismo28);
 
-    printf("Nome da vigesima nona cidade de ALpha: \n");
-    scanf("%s", &cidade29);
+    printf("Nome da vigesima nona cidade de BEta: \n");
+    scanf("%s", &Cidade29);
     printf("População: \n");
-    scanf("%f", &populacao29);
+    scanf("%f", &Populacao29);
     printf("Área: \n");
-    scanf("%f", &area29);
+    scanf("%f", &Area29);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib29);
+    scanf("%f", &Pib29);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo29);
-    printf("Cidade: %s \n", cidade29);
-    printf("População: %.3f \n", populacao29);
-    printf("Area: %.3f \n", area29);
-    printf("PIB: %2.f \n", pib29);
-    printf("Números de Pontos Turísticos: %c \n", turismo29);
+    scanf("%s", &Turismo29);
+    printf("Cidade: %s \n", Cidade29);
+    printf("População: %.3f \n", Populacao29);
+    printf("Area: %.3f \n", Area29);
+    printf("PIB: %2.f \n", Pib29);
+    printf("Números de Pontos Turísticos: %c \n", Turismo29);
 
-    printf("Nome da trigesima cidade de ALpha: \n");
-    scanf("%s", &cidade30);
+    printf("Nome da trigesima cidade de BEta: \n");
+    scanf("%s", &Cidade30);
     printf("População: \n");
-    scanf("%f", &populacao30);
+    scanf("%f", &Populacao30);
     printf("Área: \n");
-    scanf("%f", &area30);
+    scanf("%f", &Area30);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib30);
+    scanf("%f", &Pib30);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo30);
-    printf("Cidade: %s \n", cidade14);
-    printf("População: %.3f \n", populacao30);
-    printf("Area: %.3f \n", area30);
-    printf("PIB: %2.f \n", pib30);
-    printf("Números de Pontos Turísticos: %c \n", turismo30);
+    scanf("%s", &Turismo30);
+    printf("Cidade: %s \n", Cidade14);
+    printf("População: %.3f \n", Populacao30);
+    printf("Area: %.3f \n", Area30);
+    printf("PIB: %2.f \n", Pib30);
+    printf("Números de Pontos Turísticos: %c \n", Turismo30);
 
-    printf("Nome da trigesima primeira cidade de ALpha: \n");
-    scanf("%s", &cidade31);
+    printf("Nome da trigesima primeira cidade de BEta: \n");
+    scanf("%s", &Cidade31);
     printf("População: \n");
-    scanf("%f", &populacao31);
+    scanf("%f", &Populacao31);
     printf("Área: \n");
-    scanf("%f", &area31);
+    scanf("%f", &Area31);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib31);
+    scanf("%f", &Pib31);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo31);
-    printf("Cidade: %s \n", cidade31);
-    printf("População: %.3f \n", populacao31);
-    printf("Area: %.3f \n", area31);
-    printf("PIB: %2.f \n", pib31);
-    printf("Números de Pontos Turísticos: %c \n", turismo31);
+    scanf("%s", &Turismo31);
+    printf("Cidade: %s \n", Cidade31);
+    printf("População: %.3f \n", Populacao31);
+    printf("Area: %.3f \n", Area31);
+    printf("PIB: %2.f \n", Pib31);
+    printf("Números de Pontos Turísticos: %c \n", Turismo31);
 
-    printf("Nome da trigesima segunda cidade de ALpha: \n");
-    scanf("%s", &cidade32);
+    printf("Nome da trigesima segunda cidade de BEta: \n");
+    scanf("%s", &Cidade32);
     printf("População: \n");
-    scanf("%f", &populacao32);
+    scanf("%f", &Populacao32);
     printf("Área: \n");
-    scanf("%f", &area32);
+    scanf("%f", &Area32);
     printf("PIB da cidade: \n" );
-    scanf("%f", &pib32);
+    scanf("%f", &Pib32);
     printf("Pontos Turisticos: \n");
-    scanf("%s", &turismo32);
-    printf("Cidade: %s \n", cidade32);
-    printf("População: %.3f \n", populacao32);
-    printf("Area: %.3f \n", area32);
-    printf("PIB: %2.f \n", pib32);
-    printf("Números de Pontos Turísticos: %c \n", turismo32);
+    scanf("%s", &Turismo32);
+    printf("Cidade: %s \n", Cidade32);
+    printf("População: %.3f \n", Populacao32);
+    printf("Area: %.3f \n", Area32);
+    printf("PIB: %2.f \n", Pib32);
+    printf("Números de Pontos Turísticos: %c \n", Turismo32);
+
 
     return 0;
 
