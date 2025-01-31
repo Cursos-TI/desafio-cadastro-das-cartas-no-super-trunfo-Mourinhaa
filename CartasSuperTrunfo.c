@@ -215,6 +215,191 @@ int main(){
     double area32 = 604.676;  //variável para o tamanho da trigesima segunda cidade ALpha.
     float pib32 = 5;  //variável para o pib da trigesima segunda cidade ALpha.
     char turismo32 = '7';  //variável para os pontos turisticos da trigesima segunda cidade ALpha.
+    
+    //Dados cadastrais do país BEta.
+
+    //Dados cadastrais do estado BEta1.
+
+    char Cidade1 [4] = "A001";  //variável para o nome da primeira cidade BEta.
+    double Populacao1 = 412.092;  //variável para a população da primeira cidade BEta.
+    double Area1 = 232.543;  //variável para o tamanho da primeira cidade BEta.
+    float Pib1 = 6;  //variável para o pib da primeira cidade BEta.
+    char Turismo1 = '3';  //variável para os pontos turisticos da primeira cidade BEta.
+    
+    char Cidade2 [4] = "A002";  //variável para o nome da segunda cidade BEta.
+    double Populacao2 = 631.673;  //variável para a população da segunda cidade BEta.
+    double Area2 = 821.439;  //variável para o tamanho da segunda cidade BEta.
+    float Pib2 = 15;  //variável para o pib da segunda cidade BEta.
+    char Turismo2 = '7';  //variável para os pontos turisticos da segunda cidade BEta.
+
+    char Cidade3 [4] = "A003";  //variável para o nome da terceira cidade BEta.
+    double Populacao3 = 254.445;  //variável para a população da terceira cidade BEta.
+    double Area3 = 913.445;  //variável para o tamanho da terceira cidade BEta.
+    float Pib3 = 9.5;  //variável para o pib da terceira cidade BEta.
+    char Turismo3 = '9';  //variável para os pontos turisticos da terceira cidade BEta.
+
+    char Cidade4 [4] = "A004";  //variável para o nome da quarta cidade BEta.
+    double Populacao4 = 501.393;  //variável para a população da quarta cidade BEta.
+    double Area4 = 309.076;  //variável para o tamanho da quarta cidade BEta.
+    float Pib4 = 6;  //variável para o pib da quarta cidade BEta.
+    char Turismo4 = '7';  //variável para os pontos turisticos da quarta cidade BEta.
+    
+    //Dados cadastrais do estado BEta2. (B)
+
+    char Cidade5 [4] = "B001";  //variável para o nome da quinta cidade BEta.
+    double Populacao5 = 964.012;  //variável para a população da quinta cidade BEta.
+    double Area5 = 904.121;  //variável para o tamanho da quinta cidade BEta.
+    float Pib5 = 14;  //variável para o pib da quinta cidade BEta.
+    char Turismo5 = '5';  //variável para os pontos turisticos da quinta cidade BEta.
+    
+    char Cidade6 [4] = "B002";  //variável para o nome da sexta cidade BEta.
+    double Populacao6 = 90.258;  //variável para a população da sexta cidade BEta.
+    double Area6 = 571.753;  //variável para o tomanho da sexta cidade BEta.
+    float Pib6 = 8;  //variável para o pib da sexta cidade de BEta.
+    char Turismo6 = '2';  //variável para os pontos turisticos da sexta cidade BEta.
+
+    char Cidade7 [4] = "B003";  //variável para o nome da setima cidade BEta.
+    double Populacao7 = 261.673;  //variável para a população da setima cidade BEta.
+    double Area7 = 409.143;  //variável para o tamanho da setima cidade BEta.
+    float Pib7 = 2;  //variável para o pib da setima cidade BEta.
+    char Turismo7 = '9';  //variável para os pontos turisticos da setima cidade BEta.
+
+    char Cidade8 [4] = "B004";  //variável para o nome da oitava cidade BEta.
+    double Populacao8 = 402.589;  //variável para a população da oitava cidade BEta.
+    double Area8 = 602.187;  //variável para o tamanho da oitava cidade BEta.
+    float Pib8 = 6;  //variável para o pib da oitava cidade BEta.
+    char Turismo8 = '5';  //variável para os pontos turisticos da oitava cidade BEta.
+
+    //Dados cadastrais do estado BEta3. (C)
+
+    char Cidade9 [4] = "C001";  //variável para o nome da nona cidade BEta.
+    double Populacao9 = 293.295;  //variável para a população da nona cidade BEta.
+    double Area9 = 420.209;  //variável para o tamanho da nona cidade BEta.
+    float Pib9 = 10;  //variável para o pib da nona cidadade BEtA.
+    char Turismo9 = '4';  //variável para os pontos turisticos da nona cidade BEta.
+    
+    char Cidade10 [4] = "C002";  //variável para o nome da decima cidade BEta.
+    double Populacao10 = 241.234;  //variável para a população da decima cidade BEtA.
+    double Area10 = 631.123;  //variável para o tamanho da decima cidade BEta.
+    float Pib10 = 4.1;  //variável para o pib da decima cidade BEta.
+    char Turismo10 = '6';  //variável para os pontos turisticos da decima cidade BEta.
+
+    char Cidade11 [4] = "C003";  //variável para o nome da decima primeira cidade BEtA.
+    double Populacao11 = 310.983;  //variável para a população da decima primeira cidade BEta.
+    double Area11 = 502.311;  //variável para o tamanho da decima primeira cidade BEta.
+    float Pib11 = 5;  //variável para o pib da decima primeira cidade BEta.
+    char Turismo11 = '7';  //variável para os pontos turisticos da decima primeira cidade BEta.
+
+    char Cidade12 [4] = "C004";  //variável para o nome da decima segunda cidade BEta.
+    double Populacao12 = 263.061;  //variável para a população da decima segunda cidade BEta.
+    double Area12 = 501.126;  //variável para o tamanho da decima segunda cidade BEta.
+    float Pib12 = 9;  //variável para o pib da decima segunda cidade BEta.
+    char Turismo12 = '6';  //variável para os pontos turisticos da decima segunda cidade BEta.
+
+    //Dados cadastrais do estado BEta4. (D)
+
+    char Cidade13 [4] = "D001";  //variável para o nome da decima terceira cidade BEta.
+    double Populacao13 = 325.153;  //variável para a população da decima terceira cidade BEta.
+    double Area13 = 722.221;  //variável para o tamanho da decima terceira cidade BEta.
+    float Pib13 = 16;  //variável para o pib da decima terceira cidade BEta.
+    char Turismo13 = '6';  //variável para os pontos turisticos da decima terceira cidade BEta.
+    
+    char Cidade14 [4] = "D002";  //variável para o nome da decima quarta cidade BEta.
+    double Populacao14 = 212.233;  //variável para a população da decima quarta cidade BEta.
+    double Area14 =641.243;  //variável para o tamanho da decima quarta cidade BEta.
+    float Pib14 = 1;  //variável para o pib da decima quarta cidade BEta.
+    char Turismo14 = '0';  //variável para os pontos turisticos da decima quarta cidade BEta.
+
+    char Cidade15 [4] = "D003";  //variável para o nome da decima quinta cidade BEta.
+    double Populacao15 = 421.648;  //variável para a população da decima quinta cidade BEta.
+    double Area15 = 521.863;  //variável para o tamanho da decima quinta cidade BEta.
+    float Pib15 = 5;  //variável para o pib da decima quinta cidade ALpha.
+    char Turismo15 = '6';  //variável para os pontos turisticos da decima quinta cidade BEta.
+
+    char Cidade16 [4] = "D004";  //variável para o nome da decima sexta cidade BEta.
+    double Populacao16 = 302.254;  //variável para a população da decima sexta cidade BEta.
+    double Area16 = 678.003;  //variável para o tamanho da decima sexta cidade BEta.
+    float Pib16 = 8;  //variável para o pib da decima sexta cidade BEta.
+    char Turismo16 = '7';  //variável para os pontos turisticos da decima sexta cidade BEta.
+
+    //Dados cadastrais do estado BEta5. (E)
+
+    char Cidade17 [4] = "E001";  //variável para o nome da decima setima cidade BEta.
+    double Populacao17 = 642.228;  //variável para a população da decima setima cidade BEta.
+    double Area17 = 734.021;  //variável para o tamanho da decima setima cidade BEta.
+    float Pib17 = 8;  //variável para o pib da decima setima cidade BEta.
+    char Turismo17 = '10';  //variável para os pontos turisticos da decima setima cidade BEta.
+    
+    char Cidade18 [4] = "E002";  //variável para o nome da decima oitava cidade BEta.
+    double Populacao18 = 100.031;  //variável para a população da decima oitava cidade BEta.
+    double Area18 = 243.065;  //variável para o tamanho da decima oitava cidade BEta.
+    float Pib18 = 7;  //variável para o pib da decima oitava cidade BEta.
+    char Turismo18 = '4';  //variável para os pontos turisticos da decima oitava cidade BEta.
+
+    char Cidade19 [4] = "E003";  //variável para o nome da decima nona cidade BEta.
+    double Populacao19 = 402.445;  //variável para a população da decima nona cidade BEta.
+    double Area19 = 811.236;  //variável para o tamanho da decima nona cidade BEta.
+    float Pib19 = 9;  //variável para o pib da decima nona cidade BEta.
+    char Turismo19 = '6';  //variável para os pontos turisticos da decima nona cidade BEta.
+
+    char Cidade20 [4] = "E004";  //variável para o nome da vigesima cidade BEta.
+    double Populacao20 = 921.702;  //variável para a população da vigesima cidade BEta.
+    double Area20 = 232.500;  //variável para o tamanho da vigesima cidade BEta.
+    float Pib20 = 1;  //variável para o pib da vigesima cidade BEta.
+    char Turismo20 = '2';  //variável para os pontos turisticos da vigesima cidade BEta.
+    
+    //Dados cadastrais do estado BEta6. (F)
+
+    char Cidade21 [4] = "F001";  //variável para o nome da vigesima primeira cidade BEta.
+    double Populacao21 = 999.122;  //variável para a população da decima vigesima primeira BEta.
+    double Area21 = 682.231;  //variável para o tamanho da vigesima primeira cidade BEta.
+    float Pib21 = 19;  //variável para o pib da vigesima primeira cidade BEta.
+    char Turismo21 = '6';  //variável para os pontos turisticos da vigesima primeira cidade BEta.
+    
+    char Cidade22 [4] = "F002";  //variável para o nome da vigesima segunda cidade BEta.
+    double Populacao22 = 390.564;  //variável para a população da vigesima segunda cidade BEta.
+    double Area22 = 611.233;  //variável para o tomanho da vigesima segunda cidade BEta.
+    float Pib22 = 5;  //variável para o pib da vigesima segunda cidade de BEta.
+    char Turismo22 = '4';  //variável para os pontos turisticos da vigesima segunda cidade BEta.
+
+    char Cidade23 [4] = "F003";  //variável para o nome da vigesima terceira cidade BEta.
+    double Populacao23 = 132.803;  //variável para a população da vigesima terceira cidade BEta.
+    double Area23 = 730.203;  //variável para o tamanho da vigesima terceira cidade BEta.
+    float Pib23 = 6;  //variável para o pib da vigesima terceira cidade BEta.
+    char Turismo23 = '9';  //variável para os pontos turisticos da vigesima terceira cidade BEta.
+
+    char Cidade24 [4] = "F004";  //variável para o nome da vigesima quarta cidade BEta.
+    double Populacao24 = 568.092;  //variável para a população da vigesima quarta cidade BEta.
+    double Area24 = 700.145;  //variável para o tamanho da vigesima quarta cidade BEta.
+    float Pib24 = 10;  //variável para o pib da vigesima quarta cidade BEta.
+    char Turismo24 = '1';  //variável para os pontos turisticos da vigesima quarta cidade BEta.
+
+    //Dados cadastrais do estado BEta7. (G)
+
+    char Cidade25 [4] = "G001";  //variável para o nome da vigesima quinta cidade BEta.
+    double Populacao25 = 306.753;  //variável para a população da vigesima quinta cidade BEta.
+    double Area25 = 611.222;  //variável para o tamanho da vigasima quinta cidade BEta.
+    float Pib25 = 22;  //variável para o pib da vigesima quinta cidadade BEta.
+    char Turismo25 = '8';  //variável para os pontos turisticos da vigesima quinta cidade BEta.
+    
+    char Cidade26 [4] = "G002";  //variável para o nome da vigesima sexta cidade BEta.
+    double Populacao26 = 235.984;  //variável para a população da vigesima sexta cidade BEta.
+    double Area26 = 601.239;  //variável para o tamanho da vigesima sexta cidade BEta.
+    float Pib26 = 7;  //variável para o pib da vigesima sexta cidade BEta.
+    char Turismo26 = '8';  //variável para os pontos turisticos da vigesima sexta cidade BEta.
+
+    char Cidade27 [4] = "G003";  //variável para o nome da vigesima setima cidade BEta.
+    double Populacao27 = 307.861;  //variável para a população da vigesima setima cidade BEta.
+    double Area27 = 401.121;  //variável para o tamanho da vigesima setima cidade BEta.
+    float Pib27 = 6;  //variável para o pib da vigesima setima cidade BEta.
+    char Turismo27 = '4';  //variável para os pontos turisticos da vigesima setima cidade BEta.
+
+    char Cidade28 [4] = "G004";  //variável para o nome da vigesima oitava da cidade de BEta.
+    double Populacao28 = 381.051;  //variável para a população da vigesima oitava cidade de BEta.
+    double Area28 = 712.146;  //variável para o tamanho da vigesima oitava cidade de BEta.
+    float Pib28 = 9;  //variável para o pib da vigesima oitava cidade de BEta.
+    char Turismo28 = '6';  //variável para os pontos turisticos da vigesima oitava cidade de BEta.
+
 
     printf("Nome da primeira cidade de ALpha: \n");
     scanf("%s", &cidade1);
@@ -728,215 +913,7 @@ int main(){
     printf("PIB: %2.f \n", pib32);
     printf("Números de Pontos Turísticos: %c \n", turismo32);
 
-    //Dados cadastrais do país BEta.
-
-    //Dados cadastrais do estado BEta1.
-
-    char Cidade1 [4] = "A001";  //variável para o nome da primeira cidade BEta.
-    double Populacao1 = 412.092;  //variável para a população da primeira cidade BEta.
-    double Area1 = 232.543;  //variável para o tamanho da primeira cidade BEta.
-    float Pib1 = 6;  //variável para o pib da primeira cidade BEta.
-    char Turismo1 = '3';  //variável para os pontos turisticos da primeira cidade BEta.
-    
-    char Cidade2 [4] = "A002";  //variável para o nome da segunda cidade BEta.
-    double Populacao2 = 631.673;  //variável para a população da segunda cidade BEta.
-    double Area2 = 821.439;  //variável para o tamanho da segunda cidade BEta.
-    float Pib2 = 15;  //variável para o pib da segunda cidade BEta.
-    char Turismo2 = '7';  //variável para os pontos turisticos da segunda cidade BEta.
-
-    char Cidade3 [4] = "A003";  //variável para o nome da terceira cidade BEta.
-    double Populacao3 = 254.445;  //variável para a população da terceira cidade BEta.
-    double Area3 = 913.445;  //variável para o tamanho da terceira cidade BEta.
-    float Pib3 = 9.5;  //variável para o pib da terceira cidade BEta.
-    char Turismo3 = '9';  //variável para os pontos turisticos da terceira cidade BEta.
-
-    char Cidade4 [4] = "A004";  //variável para o nome da quarta cidade BEta.
-    double Populacao4 = 501.393;  //variável para a população da quarta cidade BEta.
-    double Area4 = 309.076;  //variável para o tamanho da quarta cidade BEta.
-    float Pib4 = 6;  //variável para o pib da quarta cidade BEta.
-    char Turismo4 = '7';  //variável para os pontos turisticos da quarta cidade BEta.
-    
-    //Dados cadastrais do estado BEta2. (B)
-
-    char Cidade5 [4] = "B001";  //variável para o nome da quinta cidade BEta.
-    double Populacao5 = 964.012;  //variável para a população da quinta cidade BEta.
-    double Area5 = 904.121;  //variável para o tamanho da quinta cidade BEta.
-    float Pib5 = 14;  //variável para o pib da quinta cidade BEta.
-    char Turismo5 = '5';  //variável para os pontos turisticos da quinta cidade BEta.
-    
-    char Cidade6 [4] = "B002";  //variável para o nome da sexta cidade BEta.
-    double Populacao6 = 90.258;  //variável para a população da sexta cidade BEta.
-    double Area6 = 571.753;  //variável para o tomanho da sexta cidade BEta.
-    float Pib6 = 8;  //variável para o pib da sexta cidade de BEta.
-    char Turismo6 = '2';  //variável para os pontos turisticos da sexta cidade BEta.
-
-    char Cidade7 [4] = "B003";  //variável para o nome da setima cidade BEta.
-    double Populacao7 = 261.673;  //variável para a população da setima cidade BEta.
-    double Area7 = 409.143;  //variável para o tamanho da setima cidade BEta.
-    float Pib7 = 2;  //variável para o pib da setima cidade BEta.
-    char Turismo7 = '9';  //variável para os pontos turisticos da setima cidade BEta.
-
-    char Cidade8 [4] = "B004";  //variável para o nome da oitava cidade BEta.
-    double Populacao8 = 402.589;  //variável para a população da oitava cidade BEta.
-    double Area8 = 602.187;  //variável para o tamanho da oitava cidade BEta.
-    float Pib8 = 6;  //variável para o pib da oitava cidade BEta.
-    char Turismo8 = '5';  //variável para os pontos turisticos da oitava cidade BEta.
-
-    //Dados cadastrais do estado BEta3. (C)
-
-    char Cidade9 [4] = "C001";  //variável para o nome da nona cidade BEta.
-    double Populacao9 = 293.295;  //variável para a população da nona cidade BEta.
-    double Area9 = 420.209;  //variável para o tamanho da nona cidade BEta.
-    float Pib9 = 10;  //variável para o pib da nona cidadade BEtA.
-    char Turismo9 = '4';  //variável para os pontos turisticos da nona cidade BEta.
-    
-    char Cidade10 [4] = "C002";  //variável para o nome da decima cidade BEta.
-    double Populacao10 = 241.234;  //variável para a população da decima cidade BEtA.
-    double Area10 = 631.123;  //variável para o tamanho da decima cidade BEta.
-    float Pib10 = 4.1;  //variável para o pib da decima cidade BEta.
-    char Turismo10 = '6';  //variável para os pontos turisticos da decima cidade BEta.
-
-    char Cidade11 [4] = "C003";  //variável para o nome da decima primeira cidade BEtA.
-    double Populacao11 = 310.983;  //variável para a população da decima primeira cidade BEta.
-    double Area11 = 502.311;  //variável para o tamanho da decima primeira cidade BEta.
-    float Pib11 = 5;  //variável para o pib da decima primeira cidade BEta.
-    char Turismo11 = '7';  //variável para os pontos turisticos da decima primeira cidade BEta.
-
-    char Cidade12 [4] = "C004";  //variável para o nome da decima segunda cidade BEta.
-    double Populacao12 = 263.061;  //variável para a população da decima segunda cidade BEta.
-    double Area12 = 501.126;  //variável para o tamanho da decima segunda cidade BEta.
-    float Pib12 = 9;  //variável para o pib da decima segunda cidade BEta.
-    char Turismo12 = '6';  //variável para os pontos turisticos da decima segunda cidade BEta.
-
-    //Dados cadastrais do estado BEta4. (D)
-
-    char Cidade13 [4] = "D001";  //variável para o nome da decima terceira cidade BEta.
-    double Populacao13 = 325.153;  //variável para a população da decima terceira cidade BEta.
-    double Area13 = 722.221;  //variável para o tamanho da decima terceira cidade BEta.
-    float Pib13 = 16;  //variável para o pib da decima terceira cidade BEta.
-    char Turismo13 = '6';  //variável para os pontos turisticos da decima terceira cidade BEta.
-    
-    char Cidade14 [4] = "D002";  //variável para o nome da decima quarta cidade BEta.
-    double Populacao14 = 212.233;  //variável para a população da decima quarta cidade BEta.
-    double Area14 =641.243;  //variável para o tamanho da decima quarta cidade BEta.
-    float Pib14 = 1;  //variável para o pib da decima quarta cidade BEta.
-    char Turismo14 = '0';  //variável para os pontos turisticos da decima quarta cidade BEta.
-
-    char Cidade15 [4] = "D003";  //variável para o nome da decima quinta cidade BEta.
-    double Populacao15 = 421.648;  //variável para a população da decima quinta cidade BEta.
-    double Area15 = 521.863;  //variável para o tamanho da decima quinta cidade BEta.
-    float Pib15 = 5;  //variável para o pib da decima quinta cidade ALpha.
-    char Turismo15 = '6';  //variável para os pontos turisticos da decima quinta cidade BEta.
-
-    char Cidade16 [4] = "D004";  //variável para o nome da decima sexta cidade BEta.
-    double Populacao16 = 302.254;  //variável para a população da decima sexta cidade BEta.
-    double Area16 = 678.003;  //variável para o tamanho da decima sexta cidade BEta.
-    float Pib16 = 8;  //variável para o pib da decima sexta cidade BEta.
-    char Turismo16 = '7';  //variável para os pontos turisticos da decima sexta cidade BEta.
-
-    //Dados cadastrais do estado BEta5. (E)
-
-    char Cidade17 [4] = "E001";  //variável para o nome da decima setima cidade BEta.
-    double Populacao17 = 642.228;  //variável para a população da decima setima cidade BEta.
-    double Area17 = 734.021;  //variável para o tamanho da decima setima cidade BEta.
-    float Pib17 = 8;  //variável para o pib da decima setima cidade BEta.
-    char Turismo17 = '10';  //variável para os pontos turisticos da decima setima cidade BEta.
-    
-    char Cidade18 [4] = "E002";  //variável para o nome da decima oitava cidade BEta.
-    double Populacao18 = 100.031;  //variável para a população da decima oitava cidade BEta.
-    double Area18 = 243.065;  //variável para o tamanho da decima oitava cidade BEta.
-    float Pib18 = 7;  //variável para o pib da decima oitava cidade BEta.
-    char Turismo18 = '4';  //variável para os pontos turisticos da decima oitava cidade BEta.
-
-    char Cidade19 [4] = "E003";  //variável para o nome da decima nona cidade BEta.
-    double Populacao19 = 402.445;  //variável para a população da decima nona cidade BEta.
-    double Area19 = 811.236;  //variável para o tamanho da decima nona cidade BEta.
-    float Pib19 = 9;  //variável para o pib da decima nona cidade BEta.
-    char Turismo19 = '6';  //variável para os pontos turisticos da decima nona cidade BEta.
-
-    char Cidade20 [4] = "E004";  //variável para o nome da vigesima cidade BEta.
-    double Populacao20 = 921.702;  //variável para a população da vigesima cidade BEta.
-    double Area20 = 232.500;  //variável para o tamanho da vigesima cidade BEta.
-    float Pib20 = 1;  //variável para o pib da vigesima cidade BEta.
-    char Turismo20 = '2';  //variável para os pontos turisticos da vigesima cidade BEta.
-    
-    //Dados cadastrais do estado BEta6. (F)
-
-    char Cidade21 [4] = "F001";  //variável para o nome da vigesima primeira cidade BEta.
-    double Populacao21 = 999.122;  //variável para a população da decima vigesima primeira BEta.
-    double Area21 = 682.231;  //variável para o tamanho da vigesima primeira cidade BEta.
-    float Pib21 = 19;  //variável para o pib da vigesima primeira cidade BEta.
-    char Turismo21 = '6';  //variável para os pontos turisticos da vigesima primeira cidade BEta.
-    
-    char Cidade22 [4] = "F002";  //variável para o nome da vigesima segunda cidade BEta.
-    double Populacao22 = 390.564;  //variável para a população da vigesima segunda cidade BEta.
-    double Area22 = 611.233;  //variável para o tomanho da vigesima segunda cidade BEta.
-    float Pib22 = 5;  //variável para o pib da vigesima segunda cidade de BEta.
-    char Turismo22 = '4';  //variável para os pontos turisticos da vigesima segunda cidade BEta.
-
-    char Cidade23 [4] = "F003";  //variável para o nome da vigesima terceira cidade BEta.
-    double Populacao23 = 132.803;  //variável para a população da vigesima terceira cidade BEta.
-    double Area23 = 730.203;  //variável para o tamanho da vigesima terceira cidade BEta.
-    float Pib23 = 6;  //variável para o pib da vigesima terceira cidade BEta.
-    char Turismo23 = '9';  //variável para os pontos turisticos da vigesima terceira cidade BEta.
-
-    char Cidade24 [4] = "F004";  //variável para o nome da vigesima quarta cidade BEta.
-    double Populacao24 = 568.092;  //variável para a população da vigesima quarta cidade BEta.
-    double Area24 = 700.145;  //variável para o tamanho da vigesima quarta cidade BEta.
-    float Pib24 = 10;  //variável para o pib da vigesima quarta cidade BEta.
-    char Turismo24 = '1';  //variável para os pontos turisticos da vigesima quarta cidade BEta.
-
-    //Dados cadastrais do estado BEta7. (G)
-
-    char Cidade25 [4] = "G001";  //variável para o nome da vigesima quinta cidade BEta.
-    double Populacao25 = 306.753;  //variável para a população da vigesima quinta cidade BEta.
-    double Area25 = 611.222;  //variável para o tamanho da vigasima quinta cidade BEta.
-    float Pib25 = 22;  //variável para o pib da vigesima quinta cidadade BEta.
-    char Turismo25 = '8';  //variável para os pontos turisticos da vigesima quinta cidade BEta.
-    
-    char Cidade26 [4] = "G002";  //variável para o nome da vigesima sexta cidade BEta.
-    double Populacao26 = 235.984;  //variável para a população da vigesima sexta cidade BEta.
-    double Area26 = 601.239;  //variável para o tamanho da vigesima sexta cidade BEta.
-    float Pib26 = 7;  //variável para o pib da vigesima sexta cidade BEta.
-    char Turismo26 = '8';  //variável para os pontos turisticos da vigesima sexta cidade BEta.
-
-    char Cidade27 [4] = "G003";  //variável para o nome da vigesima setima cidade BEta.
-    double Populacao27 = 307.861;  //variável para a população da vigesima setima cidade BEta.
-    double Area27 = 401.121;  //variável para o tamanho da vigesima setima cidade BEta.
-    float Pib27 = 6;  //variável para o pib da vigesima setima cidade BEta.
-    char Turismo27 = '4';  //variável para os pontos turisticos da vigesima setima cidade BEta.
-
-    char Cidade28 [4] = "G004";  //variável para o nome da vigesima oitava da cidade de BEta.
-    double Populacao28 = 381.051;  //variável para a população da vigesima oitava cidade de BEta.
-    double Area28 = 712.146;  //variável para o tamanho da vigesima oitava cidade de BEta.
-    float Pib28 = 9;  //variável para o pib da vigesima oitava cidade de BEta.
-    char Turismo28 = '6';  //variável para os pontos turisticos da vigesima oitava cidade de BEta.
-
-    //Dados cadastrais do estado BEta8. (H)
-
-    char Cidade29 [4] = "H001";  //variável para o nome da vigesima nona cidade BEta.
-    double Populacao29 = 375.215;  //variável para a população da vigesima nona cidade BEta.
-    double Area29 = 509.001;  //variável para o tamanho da vigesima nona cidade BEta.
-    float Pib29 = 17.6;  //variável para o pib da vigesima nona cidade BEta.
-    char Turismo29 = '1';  //variável para os pontos turisticos da vigesima nona cidade BEta.
-    
-    char Cidade30 [4] = "H002";  //variável para o nome da trigesima cidade BEta.
-    double Populacao30 = 311.209;  //variável para a população da trigesima cidade BEta.
-    double Area30 = 751.083;  //variável para o tamanho da trigesima cidade BEta.
-    float Pib30 = 3;  //variável para o pib da trigesima cidade BEta.
-    char Turismo30 = '5';  //variável para os pontos turisticos da trigesima cidade BEta.
-
-    char Cidade31 [4] = "H003";  //variável para o nome da trigesima primeira cidade BEta.
-    double Populacao31 = 490.778;  //variável para a população da dec trigesima primeira cidade BEta.
-    double Area31 = 508.243;  //variável para o tamanho da trigesima primeira cidade BEta.
-    float Pib31 = 12;  //variável para o pib da trigesima primeira cidade BEta.
-    char Turismo31 = '6';  //variável para os pontos turisticos da trigesima primeira cidade BEta.
-
-    char Cidade32 [4] = "H004";  //variável para o nome da trigesima segunda cidade BEta.
-    double Populacao32 = 220.028;  //variável para a população da trigesima segunda cidade BEta.
-    double Area32 = 634.956;  //variável para o tamanho da trigesima segunda cidade BEta.
-    float Pib32 = 8;  //variável para o pib da trigesima segunda cidade BEta.
-    char Turismo32 = '6';  //variável para os pontos turisticos da trigesima segunda cidade BEta.
+    //entradas de dados do pais BEta
 
     printf("Nome da primeira cidade de BEta: \n");
     scanf("%s", &Cidade1);
